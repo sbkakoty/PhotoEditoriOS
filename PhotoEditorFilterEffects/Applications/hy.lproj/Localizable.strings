@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Ետ";
+"navBarButtonDone" = "Կատարած";
+"navBarTitleStartVC" = "Բաց";
+/* Button Label */
+"labelTapToOpen" = "Հպեք՝ բացելու համար";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Ընտրեք պատկերասրահից";
+"actionSheetCamera" = "Լուսանկարել";
+"actionSheetCancel" = "Չեղարկել";
+"actionSheetSettings" = "Կարգավորումներ";
+"actionSheetReviewReference" = "Վերանայում/ Հղում";
+"actionSheetGuides" = "Էքսկուրսավարներ";
+"alertTitleGallerySettings" = "Մուտք գործեք պատկերասրահ";
+"alertMessageGallerySettings" = "Լուսանկարի հասանելիությունը պարտադիր է:";
+"alertTitleCameraSettings" = "Մուտք գործեք տեսախցիկ";
+"alertMessageCameraSettings" = "Պահանջվում է տեսախցիկի հասանելիություն:";
+"alertButtonAllow" = "Թույլատրել";
+/* camera preview */
+"actionRetakePhoto" = "Վերահանձնել";
+"actionUsePhoto" = "Օգտագործեք Լուսանկարը";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Նորմալ";
+"buttonLabelMoon" = "Լուսին";
+"buttonLabelLark" = "Արտույտ";
+"buttonLabelReyes" = "Ռեյես";
+"buttonLabelHueAdjust" = "Կարգավորել երանգը";
+"buttonLabelRedToGreen" = "Կարմիրից Կանաչ";
+"buttonLabelAdjust" = "Կարգավորել";
+"buttonLabelCrop" = "Կտրել";
+"buttonLabelDraw" = "Ոչ ոքի";
+"buttonLabelText" = "Տեքստ";
+"buttonLabelFilters" = "Զտիչներ";
+"buttonLabelOverlays" = "Ծածկույթներ";
+"buttonLabelStickers" = "Կպչուն պիտակներ";
+"buttonLabelBeauty" = "Գեղեցկություն";
+"buttonLabelBorders" = "Սահմաններ";
+"actionSheetExportGallery" = "Արտահանել Պատկերասրահ";
+"actionSheetShare" = "Կիսվել";
+"alertTitleCreateAlbum" = "Ստեղծել ալբոմ";
+"alertTitleExportPhoto" = "Արտահանել լուսանկար";
+"alertMsgCreateAlbumError" = "Ալբոմի ստեղծման սխալ:";
+"alertMsgAccessAlbum" = "Մուտքն արգելված է!";
+"alertMsgExportPhotoSuccess" = "Հաջողություն: Լուսանկարների արտահանում";
+"alertActionOK" = "լավ";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Կարգավորել";
+"buttonLabelBrightness" = "Պայծառություն";
+"buttonLabelContrast" = "Կոնտրաստ";
+"buttonLabelExposure" = "Ազդեցության ենթարկում";
+"buttonLabelSharpness" = "Սուրություն";
+"buttonLabelSaturation" = "Հագեցվածություն";
+"buttonLabelWarm" = "Ջերմ";
+"buttonLabelFade" = "Մարել";
+/* Crop VC */
+"navBarTitleCropVC" = "Կտրել";
+"buttonLabelAsShot" = "Որպես կրակոց";
+"buttonLabelFree" = "Անվճար";
+"buttonLabelFacebook" = "Ֆեյսբուք";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Նկարչություն";
+"buttonLabelOpacity" = "Անթափանցիկություն";
+/* Text VC */
+"navBarTitleTextVC" = "Տեքստ";
+"placeholder" = "Հպեք Խմբագրելու համար";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Զտիչներ";
+"buttonLabelRedInfluence" = "Կարմիր ազդեցություն";
+"buttonLabelScan" = "Սկանավորել";
+"buttonLabelExclusion" = "Բացառում";
+
+/* Borders VC */
+"buttonLabelBorder" = "Սահման";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Գնահատեք հավելվածը";
+"buttonLabelPrivacyPolicy" = "Գաղտնիության քաղաքականություն";
+"buttonLabelTermsOfUse" = "Օգտվելու կանոններ";
+"buttonLabelHowItWorks" = "Ինչպես է դա աշխատում?";
+"buttonLabelDarkMode" = "Մութ ռեժիմ";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Պատկերի մշակում...";
+"viewSubTitleBackgroundRemovalVC" = "Սահեցրեք ձախ կամ աջ՝ ֆոնի ջնջումը սկսելու համար:";
+"navTitleBackgroundRemovalVC" = "Հեռացնել ֆոնը";
+"buttonTitleBackgroundRemovalVC" = "Հեռացնել\nՖոնային";
+"alertErrorMsgJSON" = "Սխալ. հնարավոր չէ փոխարկել տվյալները JSON օբյեկտի";
+"alertErrorMsgTimeout" = "Սխալ․ հարցումը սպառվել է։";
+"alertErrorMsgGenerateImage" = "Հնարավոր չէ ստեղծել վերջնական պատկեր:";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Պատկերի մշակում...";
+"viewSubTitleObjectEraserVC" = "Հպեք և տեղափոխեք հեռացվող օբյեկտների վրա՝ այն ընտրելու համար:";
+"navTitleObjectEraserVC" = "Ջնջել օբյեկտները";
+"buttonTitleObjectEraserVC" = "Ջնջել\nՕբյեկտներ";
+

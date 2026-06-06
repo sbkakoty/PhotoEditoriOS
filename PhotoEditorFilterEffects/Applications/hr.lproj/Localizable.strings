@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "leđa";
+"navBarButtonDone" = "Gotovo";
+"navBarTitleStartVC" = "Otvorena";
+/* Button Label */
+"labelTapToOpen" = "Dodirnite za otvaranje";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Odaberite iz galerije";
+"actionSheetCamera" = "Uslikaj";
+"actionSheetCancel" = "Otkazati";
+"actionSheetSettings" = "postavke";
+"actionSheetReviewReference" = "Pregled/ Referenca";
+"actionSheetGuides" = "Vodiči";
+"alertTitleGallerySettings" = "Pristup galeriji";
+"alertMessageGallerySettings" = "Potreban je pristup fotografiji.";
+"alertTitleCameraSettings" = "Pristup kameri";
+"alertMessageCameraSettings" = "Potreban je pristup kameri.";
+"alertButtonAllow" = "Dopusti";
+/* camera preview */
+"actionRetakePhoto" = "Ponovno snimanje";
+"actionUsePhoto" = "Koristite fotografiju";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normalan";
+"buttonLabelMoon" = "Mjesec";
+"buttonLabelLark" = "ševa";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Podešavanje nijanse";
+"buttonLabelRedToGreen" = "Crveno u zeleno";
+"buttonLabelAdjust" = "prilagoditi";
+"buttonLabelCrop" = "Usjev";
+"buttonLabelDraw" = "crtati";
+"buttonLabelText" = "Tekst";
+"buttonLabelFilters" = "Filteri";
+"buttonLabelOverlays" = "Prekrivanja";
+"buttonLabelStickers" = "Naljepnice";
+"buttonLabelBeauty" = "Ljepota";
+"buttonLabelBorders" = "Granice";
+"actionSheetExportGallery" = "Izvezi u galeriju";
+"actionSheetShare" = "Udio";
+"alertTitleCreateAlbum" = "Stvori album";
+"alertTitleExportPhoto" = "Izvezi fotografiju";
+"alertMsgCreateAlbumError" = "Pogreška pri stvaranju albuma!";
+"alertMsgAccessAlbum" = "Pristup odbijen!";
+"alertMsgExportPhotoSuccess" = "Uspjeh! Izvoz fotografija";
+"alertActionOK" = "u redu";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "prilagoditi";
+"buttonLabelBrightness" = "Svjetlina";
+"buttonLabelContrast" = "Kontrast";
+"buttonLabelExposure" = "Izlaganje";
+"buttonLabelSharpness" = "Oštrina";
+"buttonLabelSaturation" = "Zasićenost";
+"buttonLabelWarm" = "Topla";
+"buttonLabelFade" = "Uvenuti";
+/* Crop VC */
+"navBarTitleCropVC" = "Rezanje";
+"buttonLabelAsShot" = "Kao Shot";
+"buttonLabelFree" = "Besplatno";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Crtajte";
+"buttonLabelOpacity" = "Neprozirnost";
+/* Text VC */
+"navBarTitleTextVC" = "Tekst";
+"placeholder" = "Dodirnite za uređivanje";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filteri";
+"buttonLabelRedInfluence" = "Crveni utjecaj";
+"buttonLabelScan" = "Skenirati";
+"buttonLabelExclusion" = "Isključenje";
+
+/* Borders VC */
+"buttonLabelBorder" = "Granica";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Ocijeni aplikaciju";
+"buttonLabelPrivacyPolicy" = "Politika privatnosti";
+"buttonLabelTermsOfUse" = "Uvjeti korištenja";
+"buttonLabelHowItWorks" = "Kako radi?";
+"buttonLabelDarkMode" = "Tamni način rada";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Obrada slike...";
+"viewSubTitleBackgroundRemovalVC" = "Prijeđite prstom lijevo ili desno za početak brisanja pozadine.";
+"navTitleBackgroundRemovalVC" = "Ukloni pozadinu";
+"buttonTitleBackgroundRemovalVC" = "Ukloni\npozadinu";
+"alertErrorMsgJSON" = "Pogreška: dohvaćanje JSON objekta";
+"alertErrorMsgTimeout" = "Pogreška: Isteklo vrijeme zahtjeva!";
+"alertErrorMsgGenerateImage" = "Ne mogu generirati konačnu sliku!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Obrada slike...";
+"viewSubTitleObjectEraserVC" = "Dodirnite i prijeđite preko objekata koje želite ukloniti kako biste ih odabrali.";
+"navTitleObjectEraserVC" = "Brisanje objekata";
+"buttonTitleObjectEraserVC" = "Izbriši\npredmete";
+

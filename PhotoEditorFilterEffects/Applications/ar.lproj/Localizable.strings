@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "خلف";
+"navBarButtonDone" = "فعله";
+"navBarTitleStartVC" = "فتح";
+/* Button Label */
+"labelTapToOpen" = "اضغط للفتح";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "اختر من المعرض";
+"actionSheetCamera" = "تصوير";
+"actionSheetCancel" = "يلغي";
+"actionSheetSettings" = "إعدادات";
+"actionSheetReviewReference" = "إعادة النظر/ المرجعي";
+"actionSheetGuides" = "خطوط إرشاد";
+"alertTitleGallerySettings" = "معرض الوصول";
+"alertMessageGallerySettings" = "مطلوب الوصول إلى الصور.";
+"alertTitleCameraSettings" = "الوصول إلى الكاميرا";
+"alertMessageCameraSettings" = "مطلوب الوصول إلى الكاميرا.";
+"alertButtonAllow" = "السماح";
+/* camera preview */
+"actionRetakePhoto" = "إعادة";
+"actionUsePhoto" = "استخدم الصورة";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "طبيعي";
+"buttonLabelMoon" = "القمر";
+"buttonLabelLark" = "قبرة";
+"buttonLabelReyes" = "رييس";
+"buttonLabelHueAdjust" = "ضبط هوى";
+"buttonLabelRedToGreen" = "الأحمر إلى الأخضر";
+"buttonLabelAdjust" = "يُعدِّل";
+"buttonLabelCrop" = "ا & قتصاص";
+"buttonLabelDraw" = "ألفت";
+"buttonLabelText" = "نص";
+"buttonLabelFilters" = "المرشحات";
+"buttonLabelOverlays" = "تراكبات";
+"buttonLabelStickers" = "ملصقات";
+"buttonLabelBeauty" = "جمال";
+"buttonLabelBorders" = "الحدود";
+"actionSheetExportGallery" = "تصدير إلى المعرض";
+"actionSheetShare" = "يشارك";
+"alertTitleCreateAlbum" = "إنشاء ألبوم";
+"alertTitleExportPhoto" = "تصدير الصور";
+"alertMsgCreateAlbumError" = "خطأ في إنشاء الألبوم!";
+"alertMsgAccessAlbum" = "تم الرفض!";
+"alertMsgExportPhotoSuccess" = "النجاح! تصدير الصور";
+"alertActionOK" = "نعم";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "يُعدِّل";
+"buttonLabelBrightness" = "سطوع";
+"buttonLabelContrast" = "التباين";
+"buttonLabelExposure" = "التعرض";
+"buttonLabelSharpness" = "حدة";
+"buttonLabelSaturation" = "التشبع";
+"buttonLabelWarm" = "دافيء";
+"buttonLabelFade" = "يختفي";
+/* Crop VC */
+"navBarTitleCropVC" = "القطع";
+"buttonLabelAsShot" = "كما أطلق عليه الرصاص";
+"buttonLabelFree" = "حر";
+"buttonLabelFacebook" = "فيسبوك";
+"buttonLabeliPhone" = "ايفون";
+/* Draw VC */
+"navBarTitleDrawVC" = "ألفت";
+"buttonLabelOpacity" = "التعتيم";
+/* Text VC */
+"navBarTitleTextVC" = "نص";
+"placeholder" = "انقر للتعديل";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "المرشحات";
+"buttonLabelRedInfluence" = "التأثير الأحمر";
+"buttonLabelScan" = "تفحص";
+"buttonLabelExclusion" = "استبعاد";
+
+/* Borders VC */
+"buttonLabelBorder" = "الحدود";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "قيم التطبيق";
+"buttonLabelPrivacyPolicy" = "سياسة الخصوصية";
+"buttonLabelTermsOfUse" = "شروط الاستخدام";
+"buttonLabelHowItWorks" = "كيف تعمل؟";
+"buttonLabelDarkMode" = "الوضع الداكن";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "جارٍ معالجة الصورة ...";
+"viewSubTitleBackgroundRemovalVC" = "اسحب لليسار أو لليمين لبدء مسح الخلفية.";
+"navTitleBackgroundRemovalVC" = "إزالة الخلفية";
+"buttonTitleBackgroundRemovalVC" = "إزالة \ n الخلفية";
+"alertErrorMsgJSON" = "خطأ: إحضار كائن JSON";
+"alertErrorMsgTimeout" = "خطأ: انتهت مهلة الطلب!";
+"alertErrorMsgGenerateImage" = "لا يمكن توليد الصورة النهائية!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "جارٍ معالجة الصورة ...";
+"viewSubTitleObjectEraserVC" = "المس وتحرك فوق الكائنات المراد إزالتها لتحديدها.";
+"navTitleObjectEraserVC" = "محو الكائنات";
+"buttonTitleObjectEraserVC" = "محو \ n الكائنات";
+

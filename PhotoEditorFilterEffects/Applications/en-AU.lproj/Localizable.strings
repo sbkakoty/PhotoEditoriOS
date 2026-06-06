@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Back";
+"navBarButtonDone" = "Done";
+"navBarTitleStartVC" = "Open";
+/* Button Label */
+"labelTapToOpen" = "Tap to open";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Choose from gallery";
+"actionSheetCamera" = "Take photo";
+"actionSheetCancel" = "Cancel";
+"actionSheetSettings" = "Settings";
+"actionSheetReviewReference" = "Review/ Reference";
+"actionSheetGuides" = "Guides";
+"alertTitleGallerySettings" = "Access Gallery";
+"alertMessageGallerySettings" = "Gallery access is required.";
+"alertTitleCameraSettings" = "Access Camera";
+"alertMessageCameraSettings" = "Camera access is required.";
+"alertButtonAllow" = "Allow";
+/* camera preview */
+"actionRetakePhoto" = "Retake";
+"actionUsePhoto" = "Use Photo";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normal";
+"buttonLabelMoon" = "Moon";
+"buttonLabelLark" = "Lark";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Hue Adjust";
+"buttonLabelRedToGreen" = "Red To Green";
+"buttonLabelAdjust" = "Adjust";
+"buttonLabelCrop" = "Crop";
+"buttonLabelDraw" = "Draw";
+"buttonLabelText" = "Text";
+"buttonLabelFilters" = "Filters";
+"buttonLabelOverlays" = "Overlays";
+"buttonLabelStickers" = "Stickers";
+"buttonLabelBeauty" = "Beauty";
+"buttonLabelBorders" = "Borders";
+"actionSheetExportGallery" = "Export To Gallery";
+"actionSheetShare" = "Share";
+"alertTitleCreateAlbum" = "Create Album";
+"alertTitleExportPhoto" = "Export Photo";
+"alertMsgCreateAlbumError" = "Error creating album!";
+"alertMsgAccessAlbum" = "Access Denied!";
+"alertMsgExportPhotoSuccess" = "Photo export success.";
+"alertActionOK" = "OK";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Adjust";
+"buttonLabelBrightness" = "Brightness";
+"buttonLabelContrast" = "Contrast";
+"buttonLabelExposure" = "Exposure";
+"buttonLabelSharpness" = "Sharpness";
+"buttonLabelSaturation" = "Saturation";
+"buttonLabelWarm" = "Warm";
+"buttonLabelFade" = "Fade";
+/* Crop VC */
+"navBarTitleCropVC" = "Crop";
+"buttonLabelAsShot" = "As Shot";
+"buttonLabelFree" = "Free";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Draw";
+"buttonLabelOpacity" = "Opacity";
+/* Text VC */
+"navBarTitleTextVC" = "Text";
+"placeholder" = "Tap To Edit";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filters";
+"buttonLabelRedInfluence" = "Red Influence";
+"buttonLabelScan" = "Scan";
+"buttonLabelExclusion" = "Exclusion";
+
+/* Borders VC */
+"buttonLabelBorder" = "Border";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Rate App";
+"buttonLabelPrivacyPolicy" = "Privacy Policy";
+"buttonLabelTermsOfUse" = "Terms of Use";
+"buttonLabelHowItWorks" = "How It Works?";
+"buttonLabelDarkMode" = "Dark Mode";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Processing image...";
+"viewSubTitleBackgroundRemovalVC" = "Swipe left or right to start background erasing.";
+"navTitleBackgroundRemovalVC" = "Remove Background";
+"buttonTitleBackgroundRemovalVC" = "Remove\nBackground";
+"alertErrorMsgJSON" = "Error: Cannot convert data to JSON object";
+"alertErrorMsgTimeout" = "Error: Request timeout!";
+"alertErrorMsgGenerateImage" = "Can't generate final image!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Processing image...";
+"viewSubTitleObjectEraserVC" = "Touch and move over the objects to be removed to select it.";
+"navTitleObjectEraserVC" = "Erase Objects";
+"buttonTitleObjectEraserVC" = "Erase\nObjects";
+

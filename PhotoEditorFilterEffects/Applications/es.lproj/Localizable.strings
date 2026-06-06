@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "atrás";
+"navBarButtonDone" = "Hecho";
+"navBarTitleStartVC" = "Abierto";
+/* Button Label */
+"labelTapToOpen" = "Toque para abrir";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Elegir de la galería";
+"actionSheetCamera" = "Tomar foto";
+"actionSheetCancel" = "Cancelar";
+"actionSheetSettings" = "Ajustes";
+"actionSheetReviewReference" = "Revisión/ Referencia";
+"actionSheetGuides" = "Guías";
+"alertTitleGallerySettings" = "Acceder a la galería";
+"alertMessageGallerySettings" = "Se requiere acceso a la foto.";
+"alertTitleCameraSettings" = "Cámara de acceso";
+"alertMessageCameraSettings" = "Se requiere acceso a la cámara.";
+"alertButtonAllow" = "Permitir";
+/* camera preview */
+"actionRetakePhoto" = "Volver a tomar";
+"actionUsePhoto" = "Usar foto";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normal";
+"buttonLabelMoon" = "Luna";
+"buttonLabelLark" = "Alondra";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Ajuste de tono";
+"buttonLabelRedToGreen" = "rojo a verde";
+"buttonLabelAdjust" = "Ajustar";
+"buttonLabelCrop" = "Orezať";
+"buttonLabelDraw" = "Dibujar";
+"buttonLabelText" = "Texto";
+"buttonLabelFilters" = "filtros";
+"buttonLabelOverlays" = "superposiciones";
+"buttonLabelStickers" = "Pegatinas";
+"buttonLabelBeauty" = "Belleza";
+"buttonLabelBorders" = "Fronteras";
+"actionSheetExportGallery" = "Exportar a la galería";
+"actionSheetShare" = "Cuota";
+"alertTitleCreateAlbum" = "Crear albúm";
+"alertTitleExportPhoto" = "Exportar foto";
+"alertMsgCreateAlbumError" = "¡Error de creación de álbum!";
+"alertMsgAccessAlbum" = "¡Acceso denegado!";
+"alertMsgExportPhotoSuccess" = "¡Éxito! Exportación de fotos";
+"alertActionOK" = "OK";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Ajustar";
+"buttonLabelBrightness" = "Brillo";
+"buttonLabelContrast" = "Contraste";
+"buttonLabelExposure" = "Exposición";
+"buttonLabelSharpness" = "Nitidez";
+"buttonLabelSaturation" = "Saturación";
+"buttonLabelWarm" = "Cálido";
+"buttonLabelFade" = "Desteñir";
+/* Crop VC */
+"navBarTitleCropVC" = "Recortar";
+"buttonLabelAsShot" = "como tiro";
+"buttonLabelFree" = "Libre";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Dibujar";
+"buttonLabelOpacity" = "Opacidad";
+/* Text VC */
+"navBarTitleTextVC" = "Texto";
+"placeholder" = "Toque para editar";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "filtros";
+"buttonLabelRedInfluence" = "Influencia roja";
+"buttonLabelScan" = "Escanear";
+"buttonLabelExclusion" = "Exclusión";
+
+/* Borders VC */
+"buttonLabelBorder" = "Borde";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Calificar aplicacion";
+"buttonLabelPrivacyPolicy" = "Política de privacidad";
+"buttonLabelTermsOfUse" = "Términos de Uso";
+"buttonLabelHowItWorks" = "¿Cómo funciona?";
+"buttonLabelDarkMode" = "Modo oscuro";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Procesando imagen...";
+"viewSubTitleBackgroundRemovalVC" = "Deslice el dedo hacia la izquierda o hacia la derecha para comenzar a borrar el fondo.";
+"navTitleBackgroundRemovalVC" = "Quitar fondo";
+"buttonTitleBackgroundRemovalVC" = "Quitar\nfondo";
+"alertErrorMsgJSON" = "Error: no se pueden convertir los datos a un objeto JSON";
+"alertErrorMsgTimeout" = "Error: ¡Solicitar tiempo de espera!";
+"alertErrorMsgGenerateImage" = "¡No se puede generar la imagen final!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Procesando imagen...";
+"viewSubTitleObjectEraserVC" = "Toque y muévase sobre los objetos a eliminar para seleccionarlos.";
+"navTitleObjectEraserVC" = "Borrar objetos";
+"buttonTitleObjectEraserVC" = "Borrar\nObjetos";
+

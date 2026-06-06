@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Πίσω";
+"navBarButtonDone" = "Ολοκληρώθηκε";
+"navBarTitleStartVC" = "Ανοιξε";
+/* Button Label */
+"labelTapToOpen" = "Πατήστε για άνοιγμα";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Επιλέξτε από τη συλλογή";
+"actionSheetCamera" = "Βγάλε φωτογραφία";
+"actionSheetCancel" = "Ματαίωση";
+"actionSheetSettings" = "Ρυθμίσεις";
+"actionSheetReviewReference" = "Ανασκόπηση/ Αναφορά";
+"actionSheetGuides" = "Οδηγοί";
+"alertTitleGallerySettings" = "Πρόσβαση στη Γκαλερί";
+"alertMessageGallerySettings" = "Απαιτείται πρόσβαση στη φωτογραφία.";
+"alertTitleCameraSettings" = "Πρόσβαση στην κάμερα";
+"alertMessageCameraSettings" = "Απαιτείται πρόσβαση στην κάμερα.";
+"alertButtonAllow" = "Επιτρέπω";
+/* camera preview */
+"actionRetakePhoto" = "Ξαναπαίρνω";
+"actionUsePhoto" = "Χρησιμοποιήστε τη φωτογραφία";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Κανονικός";
+"buttonLabelMoon" = "Φεγγάρι";
+"buttonLabelLark" = "Κορυδαλλός";
+"buttonLabelReyes" = "Ρέις";
+"buttonLabelHueAdjust" = "Προσαρμογή απόχρωσης";
+"buttonLabelRedToGreen" = "Κόκκινο σε Πράσινο";
+"buttonLabelAdjust" = "Προσαρμόζω";
+"buttonLabelCrop" = "Καλλιέργεια";
+"buttonLabelDraw" = "Σχεδιάζω";
+"buttonLabelText" = "Κείμενο";
+"buttonLabelFilters" = "Φίλτρα";
+"buttonLabelOverlays" = "Επικαλύψεις";
+"buttonLabelStickers" = "Αυτοκόλλητα";
+"buttonLabelBeauty" = "Ομορφιά";
+"buttonLabelBorders" = "σύνορα";
+"actionSheetExportGallery" = "Εξαγωγή στη Γκαλερί";
+"actionSheetShare" = "Μερίδιο";
+"alertTitleCreateAlbum" = "Δημιουργία άλμπουμ";
+"alertTitleExportPhoto" = "Εξαγωγή φωτογραφίας";
+"alertMsgCreateAlbumError" = "Σφάλμα δημιουργίας άλμπουμ!";
+"alertMsgAccessAlbum" = "Δεν επιτρέπεται η πρόσβαση!";
+"alertMsgExportPhotoSuccess" = "Επιτυχία! Εξαγωγή φωτογραφιών";
+"alertActionOK" = "Εντάξει";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Προσαρμόζω";
+"buttonLabelBrightness" = "Λάμψη";
+"buttonLabelContrast" = "Αντίθεση";
+"buttonLabelExposure" = "Εκθεση";
+"buttonLabelSharpness" = "Οξύτητα";
+"buttonLabelSaturation" = "Κορεσμός";
+"buttonLabelWarm" = "Ζεστός";
+"buttonLabelFade" = "Ξεθωριάζει";
+/* Crop VC */
+"navBarTitleCropVC" = "Περικοπή";
+"buttonLabelAsShot" = "Ως πυροβολισμός";
+"buttonLabelFree" = "Ελεύθερος";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Ισοπαλία";
+"buttonLabelOpacity" = "Αδιαφάνεια";
+/* Text VC */
+"navBarTitleTextVC" = "Κείμενο";
+"placeholder" = "Πατήστε Για επεξεργασία";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Φίλτρα";
+"buttonLabelRedInfluence" = "Κόκκινη επιρροή";
+"buttonLabelScan" = "Σάρωση";
+"buttonLabelExclusion" = "Αποκλεισμός";
+
+/* Borders VC */
+"buttonLabelBorder" = "Σύνορο";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Βαθμολόγησε την εφαρμογη";
+"buttonLabelPrivacyPolicy" = "Πολιτική Απορρήτου";
+"buttonLabelTermsOfUse" = "Οροι χρήσης";
+"buttonLabelHowItWorks" = "Πως δουλεύει?";
+"buttonLabelDarkMode" = "Σκοτεινή λειτουργία";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Επεξεργασία εικόνας...";
+"viewSubTitleBackgroundRemovalVC" = "Σύρετε προς τα αριστερά ή προς τα δεξιά για να ξεκινήσει η διαγραφή του φόντου.";
+"navTitleBackgroundRemovalVC" = "Αφαίρεση φόντου";
+"buttonTitleBackgroundRemovalVC" = "Κατάργηση\nΦόντο";
+"alertErrorMsgJSON" = "Σφάλμα: Ανάκτηση αντικειμένου JSON";
+"alertErrorMsgTimeout" = "Σφάλμα: Λήξη χρονικού ορίου αιτήματος!";
+"alertErrorMsgGenerateImage" = "Δεν είναι δυνατή η δημιουργία τελικής εικόνας!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Επεξεργασία εικόνας...";
+"viewSubTitleObjectEraserVC" = "Αγγίξτε και μετακινηθείτε πάνω από τα αντικείμενα που πρόκειται να αφαιρεθούν για να το επιλέξετε.";
+"navTitleObjectEraserVC" = "Διαγραφή αντικειμένων";
+"buttonTitleObjectEraserVC" = "Διαγραφή\nΑντικείμενα";
+

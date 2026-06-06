@@ -1,0 +1,109 @@
+/*
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "后退";
+"navBarButtonDone" = "完毕";
+"navBarTitleStartVC" = "打开";
+/* Button Label */
+"labelTapToOpen" = "点按即可打开";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "从图库中选择";
+"actionSheetCamera" = "拍照";
+"actionSheetCancel" = "取消";
+"actionSheetSettings" = "设置";
+"actionSheetReviewReference" = "审查/ 参考";
+"actionSheetGuides" = "指南";
+"alertTitleGallerySettings" = "访问图库";
+"alertMessageGallerySettings" = "需要照片访问权限。";
+"alertTitleCameraSettings" = "接入摄像头";
+"alertMessageCameraSettings" = "需要相机访问权限。";
+"alertButtonAllow" = "允许";
+/* camera preview */
+
+"actionRetakePhoto" = "重拍";
+"actionUsePhoto" = "使用照片";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "普通的";
+"buttonLabelMoon" = "月亮";
+"buttonLabelLark" = "云雀";
+"buttonLabelReyes" = "雷耶斯";
+"buttonLabelHueAdjust" = "色调调整";
+"buttonLabelRedToGreen" = "红转绿";
+"buttonLabelAdjust" = "调整";
+"buttonLabelCrop" = "庄稼";
+"buttonLabelDraw" = "画";
+"buttonLabelText" = "文本";
+"buttonLabelFilters" = "过滤器";
+"buttonLabelOverlays" = "叠加层";
+"buttonLabelStickers" = "贴纸";
+"buttonLabelBeauty" = "美丽";
+"buttonLabelBorders" = "边框";
+"actionSheetExportGallery" = "导出到图库";
+"actionSheetShare" = "分享";
+"alertTitleCreateAlbum" = "创建相册";
+"alertTitleExportPhoto" = "导出照片";
+"alertMsgCreateAlbumError" = "相册创建错误！";
+"alertMsgAccessAlbum" = "拒绝访问！";
+"alertMsgExportPhotoSuccess" = "成功！ 照片导出";
+"alertActionOK" = "好的";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "调整";
+"buttonLabelBrightness" = "亮度";
+"buttonLabelContrast" = "对比";
+"buttonLabelExposure" = "暴露";
+"buttonLabelSharpness" = "锐度";
+"buttonLabelSaturation" = "饱和";
+"buttonLabelWarm" = "温暖的";
+"buttonLabelFade" = "褪色";
+/* Crop VC */
+"navBarTitleCropVC" = "切割";
+"buttonLabelAsShot" = "作为镜头";
+"buttonLabelFree" = "自由的";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "苹果手机";
+/* Draw VC */
+"navBarTitleDrawVC" = "绘图";
+"buttonLabelOpacity" = "不透明度";
+/* Text VC */
+"navBarTitleTextVC" = "文本";
+"placeholder" = "点击编辑";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "过滤器";
+"buttonLabelRedInfluence" = "红色的影响";
+"buttonLabelScan" = "扫描";
+"buttonLabelExclusion" = "排除";
+
+/* Borders VC */
+"buttonLabelBorder" = "接壤";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "评价应用";
+"buttonLabelPrivacyPolicy" = "隐私政策";
+"buttonLabelTermsOfUse" = "使用条款";
+"buttonLabelHowItWorks" = "这个怎么运作？";
+"buttonLabelDarkMode" = "深色模式";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "正在处理图像...";
+"viewSubTitleBackgroundRemovalVC" = "向左或向右滑动以开始背景擦除。";
+"navTitleBackgroundRemovalVC" = "删除背景";
+"buttonTitleBackgroundRemovalVC" = "删除\n背景";
+"alertErrorMsgJSON" = "错误：获取 JSON 对象";
+"alertErrorMsgTimeout" = "错误：请求超时！";
+"alertErrorMsgGenerateImage" = "无法生成最终图像！";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "正在处理图像...";
+"viewSubTitleObjectEraserVC" = "触摸并移动到要删除的对象上以将其选中。";
+"navTitleObjectEraserVC" = "擦除对象";
+"buttonTitleObjectEraserVC" = "擦除\n对象";

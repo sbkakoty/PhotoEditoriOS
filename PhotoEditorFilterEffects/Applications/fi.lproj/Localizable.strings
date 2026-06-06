@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Takaisin";
+"navBarButtonDone" = "Tehty";
+"navBarTitleStartVC" = "Avata";
+/* Button Label */
+"labelTapToOpen" = "Avaa napauttamalla";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Valitse galleriasta";
+"actionSheetCamera" = "Ota valokuva";
+"actionSheetCancel" = "Peruuttaa";
+"actionSheetSettings" = "asetukset";
+"actionSheetReviewReference" = "Arvostelu/viite";
+"actionSheetGuides" = "Oppaat";
+"alertTitleGallerySettings" = "Pääsy galleriaan";
+"alertMessageGallerySettings" = "Valokuvien käyttöoikeus vaaditaan.";
+"alertTitleCameraSettings" = "Käytä kameraa";
+"alertMessageCameraSettings" = "Kameran käyttöoikeus vaaditaan.";
+"alertButtonAllow" = "Sallia";
+/* camera preview */
+"actionRetakePhoto" = "Ota uudelleen";
+"actionUsePhoto" = "Käytä valokuvaa";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normaali";
+"buttonLabelMoon" = "Kuu";
+"buttonLabelLark" = "Lark";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Sävyn säätö";
+"buttonLabelRedToGreen" = "Punaisesta Vihreään";
+"buttonLabelAdjust" = "Säätää";
+"buttonLabelCrop" = "Rajaa";
+"buttonLabelDraw" = "Piirrä";
+"buttonLabelText" = "Teksti";
+"buttonLabelFilters" = "Suodattimet";
+"buttonLabelOverlays" = "Peittokuvat";
+"buttonLabelStickers" = "Tarrat";
+"buttonLabelBeauty" = "Kauneus";
+"buttonLabelBorders" = "Rajat";
+"actionSheetExportGallery" = "Vie galleriaan";
+"actionSheetShare" = "Jaa";
+"alertTitleCreateAlbum" = "Luo albumi";
+"alertTitleExportPhoto" = "Vie valokuva";
+"alertMsgCreateAlbumError" = "Albumin luontivirhe!";
+"alertMsgAccessAlbum" = "Pääsy evätty!";
+"alertMsgExportPhotoSuccess" = "Menestys! Valokuvan vienti";
+"alertActionOK" = "OK";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Säätää";
+"buttonLabelBrightness" = "Kirkkaus";
+"buttonLabelContrast" = "Kontrasti";
+"buttonLabelExposure" = "Valotus";
+"buttonLabelSharpness" = "Terävyys";
+"buttonLabelSaturation" = "Kylläisyys";
+"buttonLabelWarm" = "Lämmin";
+"buttonLabelFade" = "Häivyttää";
+/* Crop VC */
+"navBarTitleCropVC" = "Rajaa";
+"buttonLabelAsShot" = "Kuten Shot";
+"buttonLabelFree" = "Vapaa";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Piirrä";
+"buttonLabelOpacity" = "Läpinäkymättömyys";
+/* Text VC */
+"navBarTitleTextVC" = "Teksti";
+"placeholder" = "Napauta Muokkaa";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Suodattimet";
+"buttonLabelRedInfluence" = "Punainen vaikutus";
+"buttonLabelScan" = "Skannata";
+"buttonLabelExclusion" = "Poissulkeminen";
+
+/* Borders VC */
+"buttonLabelBorder" = "Reunus";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Arvostele sovellus";
+"buttonLabelPrivacyPolicy" = "Tietosuojakäytäntö";
+"buttonLabelTermsOfUse" = "Käyttöehdot";
+"buttonLabelHowItWorks" = "Kuinka se toimii?";
+"buttonLabelDarkMode" = "Tumma tila";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Käsitellään kuvaa...";
+"viewSubTitleBackgroundRemovalVC" = "Aloita taustan poistaminen pyyhkäisemällä vasemmalle tai oikealle.";
+"navTitleBackgroundRemovalVC" = "Poista Tausta";
+"buttonTitleBackgroundRemovalVC" = "Poista\nTausta";
+"alertErrorMsgJSON" = "Virhe: Haetaan JSON-objektia";
+"alertErrorMsgTimeout" = "Virhe: Pyydä aikakatkaisua!";
+"alertErrorMsgGenerateImage" = "Lopullista kuvaa ei voi luoda!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Käsitellään kuvaa...";
+"viewSubTitleObjectEraserVC" = "Valitse poistettavat kohteet koskettamalla ja siirtymällä niiden päälle.";
+"navTitleObjectEraserVC" = "Poista objektit";
+"buttonTitleObjectEraserVC" = "Poista\nObjektit";
+

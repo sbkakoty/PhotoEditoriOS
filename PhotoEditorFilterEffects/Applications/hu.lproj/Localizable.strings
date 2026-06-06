@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Vissza";
+"navBarButtonDone" = "Kész";
+"navBarTitleStartVC" = "Nyisd ki";
+/* Button Label */
+"labelTapToOpen" = "Koppintson a megnyitáshoz";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Válassz a galériából";
+"actionSheetCamera" = "Fotót készíteni";
+"actionSheetCancel" = "Megszünteti";
+"actionSheetSettings" = "Beállítások";
+"actionSheetReviewReference" = "Áttekintés/ Referencia";
+"actionSheetGuides" = "Útmutatók";
+"alertTitleGallerySettings" = "Hozzáférés a galériához";
+"alertMessageGallerySettings" = "Fénykép hozzáférés szükséges.";
+"alertTitleCameraSettings" = "Hozzáférés a kamerához";
+"alertMessageCameraSettings" = "Kamera hozzáférés szükséges.";
+"alertButtonAllow" = "Lehetővé teszi";
+/* camera preview */
+"actionRetakePhoto" = "Vegye újra";
+"actionUsePhoto" = "Fénykép használata";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normál";
+"buttonLabelMoon" = "Hold";
+"buttonLabelLark" = "Pacsirta";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Színárnyalat beállítása";
+"buttonLabelRedToGreen" = "Pirosról Zöldre";
+"buttonLabelAdjust" = "Beállítani";
+"buttonLabelCrop" = "Vág";
+"buttonLabelDraw" = "Húz";
+"buttonLabelText" = "Szöveg";
+"buttonLabelFilters" = "Szűrők";
+"buttonLabelOverlays" = "Fedvények";
+"buttonLabelStickers" = "Matricák";
+"buttonLabelBeauty" = "Szépség";
+"buttonLabelBorders" = "Határok";
+"actionSheetExportGallery" = "Exportálás a galériába";
+"actionSheetShare" = "Részvény";
+"alertTitleCreateAlbum" = "Album létrehozása";
+"alertTitleExportPhoto" = "Fotó exportálása";
+"alertMsgCreateAlbumError" = "Album létrehozási hiba!";
+"alertMsgAccessAlbum" = "Hozzáférés megtagadva!";
+"alertMsgExportPhotoSuccess" = "Siker! Fotó exportálása";
+"alertActionOK" = "rendben";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Beállítani";
+"buttonLabelBrightness" = "Fényerősség";
+"buttonLabelContrast" = "Kontraszt";
+"buttonLabelExposure" = "Kitettség";
+"buttonLabelSharpness" = "Élesség";
+"buttonLabelSaturation" = "Telítettség";
+"buttonLabelWarm" = "Meleg";
+"buttonLabelFade" = "Áttűnés";
+/* Crop VC */
+"navBarTitleCropVC" = "Vágás";
+"buttonLabelAsShot" = "Mint Shot";
+"buttonLabelFree" = "Ingyenes";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Rajzol";
+"buttonLabelOpacity" = "Opacitás";
+/* Text VC */
+"navBarTitleTextVC" = "Szöveg";
+"placeholder" = "Érintse meg a Szerkesztés lehetőséget";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Szűrők";
+"buttonLabelRedInfluence" = "Vörös Befolyás";
+"buttonLabelScan" = "Letapogatás";
+"buttonLabelExclusion" = "Kirekesztés";
+
+/* Borders VC */
+"buttonLabelBorder" = "Szegély";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Értékeld az alkalmazást";
+"buttonLabelPrivacyPolicy" = "Adatvédelmi irányelvek";
+"buttonLabelTermsOfUse" = "Használati feltételek";
+"buttonLabelHowItWorks" = "Hogyan működik?";
+"buttonLabelDarkMode" = "Sötét mód";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Kép feldolgozása...";
+"viewSubTitleBackgroundRemovalVC" = "Csúsztassa balra vagy jobbra a háttér törlésének elindításához.";
+"navTitleBackgroundRemovalVC" = "Háttér eltávolítása";
+"buttonTitleBackgroundRemovalVC" = "Eltávolítás\nHáttér";
+"alertErrorMsgJSON" = "Hiba: Nem lehet az adatokat JSON-objektummá konvertálni";
+"alertErrorMsgTimeout" = "Hiba: Időtúllépés kérése!";
+"alertErrorMsgGenerateImage" = "Nem lehet végleges képet létrehozni!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Kép feldolgozása...";
+"viewSubTitleObjectEraserVC" = "Érintse meg és mozgassa az eltávolítandó objektumokat a kijelöléséhez.";
+"navTitleObjectEraserVC" = "Objektumok törlése";
+"buttonTitleObjectEraserVC" = "Törlés\nObjektumok";
+

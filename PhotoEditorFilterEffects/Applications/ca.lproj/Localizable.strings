@@ -1,0 +1,108 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "esquena";
+"navBarButtonDone" = "Fet";
+"navBarTitleStartVC" = "Obert";
+/* Button Label */
+"labelTapToOpen" = "Toqueu per obrir";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Trieu de la galeria";
+"actionSheetCamera" = "Fer una foto";
+"actionSheetCancel" = "Cancel · lar";
+"actionSheetSettings" = "Configuració";
+"actionSheetReviewReference" = "Revisió/ Referència";
+"actionSheetGuides" = "Guies";
+"alertTitleGallerySettings" = "Accés a la Galeria";
+"alertMessageGallerySettings" = "Cal accedir a les fotos.";
+"alertTitleCameraSettings" = "Càmera d'accés";
+"alertMessageCameraSettings" = "Cal accedir a la càmera.";
+"alertButtonAllow" = "Permetre";
+/* camera preview */
+"actionRetakePhoto" = "Reprendre";
+"actionUsePhoto" = "Utilitza la foto";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normal";
+"buttonLabelMoon" = "Lluna";
+"buttonLabelLark" = "Alosa";
+"buttonLabelReyes" = "Reis";
+"buttonLabelHueAdjust" = "Ajust de tonalitat";
+"buttonLabelRedToGreen" = "Vermell a verd";
+"buttonLabelAdjust" = "Ajustar";
+"buttonLabelCrop" = "Cultiu";
+"buttonLabelDraw" = "Dibuixa";
+"buttonLabelText" = "Text";
+"buttonLabelFilters" = "Filtres";
+"buttonLabelOverlays" = "Superposicions";
+"buttonLabelStickers" = "Adhesius";
+"buttonLabelBeauty" = "Bellesa";
+"buttonLabelBorders" = "Fronteres";
+"actionSheetExportGallery" = "Exporta a la galeria";
+"actionSheetShare" = "Compartir";
+"alertTitleCreateAlbum" = "Crea un àlbum";
+"alertTitleExportPhoto" = "Exporta la foto";
+"alertMsgCreateAlbumError" = "Error de creació de l'àlbum!";
+"alertMsgAccessAlbum" = "Accés denegat!";
+"alertMsgExportPhotoSuccess" = "Èxit! Exportació de fotos";
+"alertActionOK" = "D'acord";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Ajustar";
+"buttonLabelBrightness" = "Brillantor";
+"buttonLabelContrast" = "Contrast";
+"buttonLabelExposure" = "Exposició";
+"buttonLabelSharpness" = "Nitidez";
+"buttonLabelSaturation" = "Saturació";
+"buttonLabelWarm" = "càlid";
+"buttonLabelFade" = "Esvair";
+/* Crop VC */
+"navBarTitleCropVC" = "Tall";
+"buttonLabelAsShot" = "Com Shot";
+"buttonLabelFree" = "Gratuït";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Dibuixa";
+"buttonLabelOpacity" = "Opacitat";
+/* Text VC */
+"navBarTitleTextVC" = "Text";
+"placeholder" = "Toqueu Per editar";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filtres";
+"buttonLabelRedInfluence" = "Influència vermella";
+"buttonLabelScan" = "Escaneja";
+"buttonLabelExclusion" = "Exclusió";
+
+/* Borders VC */
+"buttonLabelBorder" = "Frontera";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Valora l'aplicació";
+"buttonLabelPrivacyPolicy" = "Política de privacitat";
+"buttonLabelTermsOfUse" = "Condicions d'ús";
+"buttonLabelHowItWorks" = "Com funciona?";
+"buttonLabelDarkMode" = "Mode fosc";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "S'està processant la imatge...";
+"viewSubTitleBackgroundRemovalVC" = "Llisca cap a l'esquerra o cap a la dreta per començar a esborrar el fons.";
+"navTitleBackgroundRemovalVC" = "Elimina el fons";
+"buttonTitleBackgroundRemovalVC" = "Elimina\nFons de fons";
+"alertErrorMsgJSON" = "Error: s'està obtenint l'objecte JSON";
+"alertErrorMsgTimeout" = "Error: sol·liciteu el temps d'espera!";
+"alertErrorMsgGenerateImage" = "No es pot generar la imatge final!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "S'està processant la imatge...";
+"viewSubTitleObjectEraserVC" = "Toqueu i moveu la selecció sobre els objectes que voleu eliminar.";
+"navTitleObjectEraserVC" = "Esborrar objectes";
+"buttonTitleObjectEraserVC" = "Esborra\nObjectes";

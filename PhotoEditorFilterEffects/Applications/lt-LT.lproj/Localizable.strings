@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Atgal";
+"navBarButtonDone" = "Atlikta";
+"navBarTitleStartVC" = "Atviras";
+/* Button Label */
+"labelTapToOpen" = "Palieskite, kad atidarytumėte";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Pasirinkite iš galerijos";
+"actionSheetCamera" = "Nufotografuoti";
+"actionSheetCancel" = "Atšaukti";
+"actionSheetSettings" = "Nustatymai";
+"actionSheetReviewReference" = "Apžvalga / nuoroda";
+"actionSheetGuides" = "Vadovai";
+"alertTitleGallerySettings" = "Prieiga prie galerijos";
+"alertMessageGallerySettings" = "Būtina prieiga prie nuotraukos.";
+"alertTitleCameraSettings" = "Prieiga prie fotoaparato";
+"alertMessageCameraSettings" = "Būtina prieiga prie fotoaparato.";
+"alertButtonAllow" = "Leisti";
+/* camera preview */
+"actionRetakePhoto" = "Perimti iš naujo";
+"actionUsePhoto" = "Naudokite nuotrauką";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normalus";
+"buttonLabelMoon" = "Mėnulis";
+"buttonLabelLark" = "Larkas";
+"buttonLabelReyes" = "Reyesas";
+"buttonLabelHueAdjust" = "Atspalvio reguliavimas";
+"buttonLabelRedToGreen" = "Raudona Į žalia";
+"buttonLabelAdjust" = "Sureguliuoti";
+"buttonLabelCrop" = "Apkarpyti";
+"buttonLabelDraw" = "Piešti";
+"buttonLabelText" = "Tekstas";
+"buttonLabelFilters" = "Filtrai";
+"buttonLabelOverlays" = "Perdangos";
+"buttonLabelStickers" = "Lipdukus";
+"buttonLabelBeauty" = "Grožis";
+"buttonLabelBorders" = "Kraštiniai";
+"actionSheetExportGallery" = "Eksportuoti į galeriją";
+"actionSheetShare" = "Pasidalykite";
+"alertTitleCreateAlbum" = "Sukurti albumą";
+"alertTitleExportPhoto" = "Eksportuoti nuotrauką";
+"alertMsgCreateAlbumError" = "Klaida kuriant albumą.";
+"alertMsgAccessAlbum" = "Prieiga uždrausta!";
+"alertMsgExportPhotoSuccess" = "Sėkmingas nuotraukų eksportas.";
+"alertActionOK" = "Gerai";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Sureguliuoti";
+"buttonLabelBrightness" = "Ryškumas";
+"buttonLabelContrast" = "Kontrastas";
+"buttonLabelExposure" = "Poveikis";
+"buttonLabelSharpness" = "Ryškumas";
+"buttonLabelSaturation" = "Prisotinimas";
+"buttonLabelWarm" = "Šiltas";
+"buttonLabelFade" = "pritemdyta";
+/* Crop VC */
+"navBarTitleCropVC" = "Apkarpyti";
+"buttonLabelAsShot" = "Kaip Shot";
+"buttonLabelFree" = "Laisvas";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Piešti";
+"buttonLabelOpacity" = "Nepermatomumas";
+/* Text VC */
+"navBarTitleTextVC" = "Tekstas";
+"placeholder" = "Palieskite norėdami redaguoti";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filtrai";
+"buttonLabelRedInfluence" = "Raudona įtaka";
+"buttonLabelScan" = "Nuskaityti";
+"buttonLabelExclusion" = "Išskyrimas";
+
+/* Borders VC */
+"buttonLabelBorder" = "Kraštinė";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Įvertinkite programėlę";
+"buttonLabelPrivacyPolicy" = "Privatumo politika";
+"buttonLabelTermsOfUse" = "Naudojimo sąlygos";
+"buttonLabelHowItWorks" = "Kaip tai veikia?";
+"buttonLabelDarkMode" = "Tamsusis režimas";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Apdorojamas vaizdas...";
+"viewSubTitleBackgroundRemovalVC" = "Braukite kairėn arba dešinėn, kad pradėtumėte fono trynimą.";
+"navTitleBackgroundRemovalVC" = "Pašalinti foną";
+"buttonTitleBackgroundRemovalVC" = "Pašalinti\nFonas";
+"alertErrorMsgJSON" = "Klaida: nepavyko konvertuoti duomenų į JSON objektą";
+"alertErrorMsgTimeout" = "Klaida: užklausos skirtasis laikas!";
+"alertErrorMsgGenerateImage" = "Nepavyko sugeneruoti galutinio vaizdo!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Apdorojamas vaizdas...";
+"viewSubTitleObjectEraserVC" = "Palieskite ir perkelkite objektus, kuriuos norite pašalinti, kad juos pasirinktumėte.";
+"navTitleObjectEraserVC" = "Ištrinti objektus";
+"buttonTitleObjectEraserVC" = "Ištrinti\nObjektus";
+

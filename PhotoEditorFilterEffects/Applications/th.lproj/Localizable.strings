@@ -1,0 +1,108 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "กลับ";
+"navBarButtonDone" = "เสร็จแล้ว";
+"navBarTitleStartVC" = "เปิด";
+/* Button Label */
+"labelTapToOpen" = "แตะเพื่อเปิด";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "เลือกจากแกลเลอรี่";
+"actionSheetCamera" = "ถ่ายภาพ";
+"actionSheetCancel" = "ยกเลิก";
+"actionSheetSettings" = "การตั้งค่า";
+"actionSheetReviewReference" = "ทบทวน/ อ้างอิง";
+"actionSheetGuides" = "ไกด์";
+"alertTitleGallerySettings" = "เข้าถึงแกลเลอรี";
+"alertMessageGallerySettings" = "จำเป็นต้องเข้าถึงรูปภาพ";
+"alertTitleCameraSettings" = "เข้าถึงกล้อง";
+"alertMessageCameraSettings" = "จำเป็นต้องเข้าถึงกล้อง";
+"alertButtonAllow" = "อนุญาต";
+/* camera preview */
+"actionRetakePhoto" = "ถ่ายใหม่";
+"actionUsePhoto" = "ใช้รูปภาพ";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "ปกติ";
+"buttonLabelMoon" = "ดวงจันทร์";
+"buttonLabelLark" = "ลาร์ค";
+"buttonLabelReyes" = "เรเยส";
+"buttonLabelHueAdjust" = "ปรับ Hue";
+"buttonLabelRedToGreen" = "แดงเป็นเขียว";
+"buttonLabelAdjust" = "ปรับ";
+"buttonLabelCrop" = "ตัดแต่ง";
+"buttonLabelDraw" = "วาด";
+"buttonLabelText" = "ข้อความ";
+"buttonLabelFilters" = "ตัวกรอง";
+"buttonLabelOverlays" = "โอเวอร์เลย์";
+"buttonLabelStickers" = "สติ๊กเกอร์";
+"buttonLabelBeauty" = "ความงาม";
+"buttonLabelBorders" = "พรมแดน";
+"actionSheetExportGallery" = "ส่งออกไปยังแกลเลอรี่";
+"actionSheetShare" = "แบ่งปัน";
+"alertTitleCreateAlbum" = "สร้างอัลบั้ม";
+"alertTitleExportPhoto" = "ส่งออกรูปภาพ";
+"alertMsgCreateAlbumError" = "ข้อผิดพลาดในการสร้างอัลบั้ม!";
+"alertMsgAccessAlbum" = "ปฏิเสธการเข้าใช้!";
+"alertMsgExportPhotoSuccess" = "ความสำเร็จ! ส่งออกรูปภาพ";
+"alertActionOK" = "ตกลง";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "ปรับ";
+"buttonLabelBrightness" = "ความสว่าง";
+"buttonLabelContrast" = "ตัดกัน";
+"buttonLabelExposure" = "การรับสัมผัสเชื้อ";
+"buttonLabelSharpness" = "ความคมชัด";
+"buttonLabelSaturation" = "ความอิ่มตัว";
+"buttonLabelWarm" = "อบอุ่น";
+"buttonLabelFade" = "เลือนหายไป";
+/* Crop VC */
+"navBarTitleCropVC" = "ครอบตัด";
+"buttonLabelAsShot" = "เป็นช็อต";
+"buttonLabelFree" = "ฟรี";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "วาด";
+"buttonLabelOpacity" = "ความทึบ";
+/* Text VC */
+"navBarTitleTextVC" = "ข้อความ";
+"placeholder" = "แตะเพื่อแก้ไข";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "ตัวกรอง";
+"buttonLabelRedInfluence" = "อิทธิพลสีแดง";
+"buttonLabelScan" = "สแกน";
+"buttonLabelExclusion" = "การยกเว้น";
+
+/* Borders VC */
+"buttonLabelBorder" = "ล้อมรอบ";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "ให้คะแนนแอพ";
+"buttonLabelPrivacyPolicy" = "นโยบายความเป็นส่วนตัว";
+"buttonLabelTermsOfUse" = "ข้อกำหนดการใช้งาน";
+"buttonLabelHowItWorks" = "มันทำงานอย่างไร?";
+"buttonLabelDarkMode" = "โหมดมืด";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "กำลังประมวลผลภาพ...";
+"viewSubTitleBackgroundRemovalVC" = "ปัดไปทางซ้ายหรือขวาเพื่อเริ่มการลบพื้นหลัง";
+"navTitleBackgroundRemovalVC" = "ลบพื้นหลัง";
+"buttonTitleBackgroundRemovalVC" = "ลบ\nพื้นหลัง";
+"alertErrorMsgJSON" = "ข้อผิดพลาด: ไม่สามารถแปลงข้อมูลเป็นวัตถุ JSON";
+"alertErrorMsgTimeout" = "ข้อผิดพลาด: ขอหมดเวลา!";
+"alertErrorMsgGenerateImage" = "ไม่สามารถสร้างภาพสุดท้ายได้!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "กำลังประมวลผลภาพ...";
+"viewSubTitleObjectEraserVC" = "แตะและเลื่อนเหนือวัตถุที่จะเอาออกเพื่อเลือก";
+"navTitleObjectEraserVC" = "ลบวัตถุ";
+"buttonTitleObjectEraserVC" = "ลบ\nวัตถุ";

@@ -1,0 +1,6 @@
+framework module Pods_PhotoEditorFilterEffects {
+  umbrella header "Pods-PhotoEditorFilterEffects-umbrella.h"
+
+  export *
+  module * { export * }
+}

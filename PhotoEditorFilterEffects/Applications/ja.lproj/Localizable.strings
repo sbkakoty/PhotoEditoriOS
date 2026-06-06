@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "戻る";
+"navBarButtonDone" = "終わり";
+"navBarTitleStartVC" = "開ける";
+/* Button Label */
+"labelTapToOpen" = "タップして開きます";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "ギャラリーから選ぶ";
+"actionSheetCamera" = "写真を撮る";
+"actionSheetCancel" = "キャンセル";
+"actionSheetSettings" = "設定";
+"actionSheetReviewReference" = "レビュー・参考";
+"actionSheetGuides" = "ガイド";
+"alertTitleGallerySettings" = "アクセスギャラリー";
+"alertMessageGallerySettings" = "写真のアクセスが必要です。";
+"alertTitleCameraSettings" = "カメラへのアクセス";
+"alertMessageCameraSettings" = "カメラへのアクセスが必要です。";
+"alertButtonAllow" = "許可する";
+/* camera preview */
+"actionRetakePhoto" = "再受験";
+"actionUsePhoto" = "写真を使用";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "普通";
+"buttonLabelMoon" = "月";
+"buttonLabelLark" = "ラーク";
+"buttonLabelReyes" = "レイエス";
+"buttonLabelHueAdjust" = "色相調整";
+"buttonLabelRedToGreen" = "赤から緑へ";
+"buttonLabelAdjust" = "調整";
+"buttonLabelCrop" = "作物";
+"buttonLabelDraw" = "描く";
+"buttonLabelText" = "文章";
+"buttonLabelFilters" = "フィルター";
+"buttonLabelOverlays" = "オーバーレイ";
+"buttonLabelStickers" = "ステッカー";
+"buttonLabelBeauty" = "美しさ";
+"buttonLabelBorders" = "国境";
+"actionSheetExportGallery" = "ギャラリーにエクスポート";
+"actionSheetShare" = "シェア";
+"alertTitleCreateAlbum" = "アルバムを作成";
+"alertTitleExportPhoto" = "写真のエクスポート";
+"alertMsgCreateAlbumError" = "アルバム作成エラー!";
+"alertMsgAccessAlbum" = "アクセスが拒否されました！";
+"alertMsgExportPhotoSuccess" = "成功！ 写真のエクスポート";
+"alertActionOK" = "わかった";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "調整";
+"buttonLabelBrightness" = "輝度";
+"buttonLabelContrast" = "対比";
+"buttonLabelExposure" = "暴露";
+"buttonLabelSharpness" = "切れ味";
+"buttonLabelSaturation" = "飽和";
+"buttonLabelWarm" = "暖かい";
+"buttonLabelFade" = "フェード";
+/* Crop VC */
+"navBarTitleCropVC" = "クリッピング";
+"buttonLabelAsShot" = "撮影時";
+"buttonLabelFree" = "無料";
+"buttonLabelFacebook" = "フェイスブック";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "描く";
+"buttonLabelOpacity" = "不透明度";
+/* Text VC */
+"navBarTitleTextVC" = "文章";
+"placeholder" = "タップして編集";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "フィルター";
+"buttonLabelRedInfluence" = "赤の影響";
+"buttonLabelScan" = "スキャン";
+"buttonLabelExclusion" = "除外";
+
+/* Borders VC */
+"buttonLabelBorder" = "境界";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "アプリを評価";
+"buttonLabelPrivacyPolicy" = "プライバシーポリシー";
+"buttonLabelTermsOfUse" = "利用規約";
+"buttonLabelHowItWorks" = "使い方？";
+"buttonLabelDarkMode" = "ダークモード";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "画像を処理しています...";
+"viewSubTitleBackgroundRemovalVC" = "左右にスワイプして背景消去を開始します。";
+"navTitleBackgroundRemovalVC" = "背景を削除";
+"buttonTitleBackgroundRemovalVC" = "背景を\n削除";
+"alertErrorMsgJSON" = "エラー: データを JSON オブジェクトに変換できません";
+"alertErrorMsgTimeout" = "エラー: リクエストのタイムアウト!";
+"alertErrorMsgGenerateImage" = "最終イメージを生成できません!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "画像を処理しています...";
+"viewSubTitleObjectEraserVC" = "削除するオブジェクトをタッチして移動し、選択します。";
+"navTitleObjectEraserVC" = "オブジェクトの消去";
+"buttonTitleObjectEraserVC" = "オブジェクトを\n消去";
+

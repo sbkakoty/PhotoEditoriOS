@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Geri";
+"navBarButtonDone" = "Tamamlandı";
+"navBarTitleStartVC" = "Açık";
+/* Button Label */
+"labelTapToOpen" = "Açmak için dokunun";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Galeriden Seç";
+"actionSheetCamera" = "Fotoğraf çek";
+"actionSheetCancel" = "İptal";
+"actionSheetSettings" = "Ayarlar";
+"actionSheetReviewReference" = "İnceleme/ Referans";
+"actionSheetGuides" = "Kılavuzlar";
+"alertTitleGallerySettings" = "Galeriye Erişim";
+"alertMessageGallerySettings" = "Fotoğraf erişimi gereklidir.";
+"alertTitleCameraSettings" = "Erişim Kamerası";
+"alertMessageCameraSettings" = "Kamera erişimi gereklidir.";
+"alertButtonAllow" = "İzin vermek";
+/* camera preview */
+"actionRetakePhoto" = "tekrar al";
+"actionUsePhoto" = "Fotoğrafı Kullan";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normal";
+"buttonLabelMoon" = "Ay";
+"buttonLabelLark" = "toygarlık";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Tonu Ayarla";
+"buttonLabelRedToGreen" = "Kırmızıdan Yeşile";
+"buttonLabelAdjust" = "Ayarlamak";
+"buttonLabelCrop" = "kırp";
+"buttonLabelDraw" = "Çizmek";
+"buttonLabelText" = "Metin";
+"buttonLabelFilters" = "Filtreler";
+"buttonLabelOverlays" = "Bindirmeler";
+"buttonLabelStickers" = "çıkartmalar";
+"buttonLabelBeauty" = "Güzellik";
+"buttonLabelBorders" = "Sınırlar";
+"actionSheetExportGallery" = "Galeriye Aktar";
+"actionSheetShare" = "Paylaşmak";
+"alertTitleCreateAlbum" = "Albüm Oluştur";
+"alertTitleExportPhoto" = "Fotoğrafı Dışa Aktar";
+"alertMsgCreateAlbumError" = "Albüm Oluşturma Hatası!";
+"alertMsgAccessAlbum" = "Erişim reddedildi!";
+"alertMsgExportPhotoSuccess" = "Başarı! Fotoğraf Dışa Aktarma";
+"alertActionOK" = "TAMAM";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Ayarlamak";
+"buttonLabelBrightness" = "Parlaklık";
+"buttonLabelContrast" = "Zıtlık";
+"buttonLabelExposure" = "Maruziyet";
+"buttonLabelSharpness" = "keskinlik";
+"buttonLabelSaturation" = "Doyma";
+"buttonLabelWarm" = "Ilık";
+"buttonLabelFade" = "Solmak";
+/* Crop VC */
+"navBarTitleCropVC" = "kırp";
+"buttonLabelAsShot" = "atış olarak";
+"buttonLabelFree" = "Özgür";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Çizmek";
+"buttonLabelOpacity" = "opaklık";
+/* Text VC */
+"navBarTitleTextVC" = "Metin";
+"placeholder" = "Düzenlemek için dokun";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filtreler";
+"buttonLabelRedInfluence" = "Kırmızı Etki";
+"buttonLabelScan" = "tara";
+"buttonLabelExclusion" = "dışlama";
+
+/* Borders VC */
+"buttonLabelBorder" = "Sınır";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Uygulamayı Değerlendir";
+"buttonLabelPrivacyPolicy" = "Gizlilik Politikası";
+"buttonLabelTermsOfUse" = "Kullanım Şartları";
+"buttonLabelHowItWorks" = "Nasıl çalışır?";
+"buttonLabelDarkMode" = "Karanlık Mod";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Resim işleniyor...";
+"viewSubTitleBackgroundRemovalVC" = "Arka planı silmeye başlamak için sola veya sağa kaydırın.";
+"navTitleBackgroundRemovalVC" = "Arkaplanı kaldırın";
+"buttonTitleBackgroundRemovalVC" = "Kaldır\nArka Plan";
+"alertErrorMsgJSON" = "Hata: Veriler JSON nesnesine dönüştürülemiyor";
+"alertErrorMsgTimeout" = "Hata: Zaman aşımı iste!";
+"alertErrorMsgGenerateImage" = "Nihai görüntü oluşturulamıyor!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Resim işleniyor...";
+"viewSubTitleObjectEraserVC" = "Seçmek için kaldırılacak nesnelerin üzerine dokunun ve hareket ettirin.";
+"navTitleObjectEraserVC" = "Nesneleri Sil";
+"buttonTitleObjectEraserVC" = "Sil\nNesneler";
+

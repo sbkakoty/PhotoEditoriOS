@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Ar ais";
+"navBarButtonDone" = "Déanta";
+"navBarTitleStartVC" = "Oscail";
+/* Button Label */
+"labelTapToOpen" = "Tapáil chun oscailt";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Roghnaigh ón gailearaí";
+"actionSheetCamera" = "Tóg grianghraf";
+"actionSheetCancel" = "Cealaigh";
+"actionSheetSettings" = "Socruithe";
+"actionSheetReviewReference" = "Léirmheas/ Tagairt";
+"actionSheetGuides" = "treoracha";
+"alertTitleGallerySettings" = "Gailearaí Rochtana";
+"alertMessageGallerySettings" = "Tá rochtain grianghraf ag teastáil.";
+"alertTitleCameraSettings" = "Ceamara rochtana";
+"alertMessageCameraSettings" = "Tá rochtain ceamara ag teastáil.";
+"alertButtonAllow" = "Ceadaigh";
+/* camera preview */
+"actionRetakePhoto" = "Retake";
+"actionUsePhoto" = "Bain úsáid as Grianghraf";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Gnáth";
+"buttonLabelMoon" = "Gealach";
+"buttonLabelLark" = "Uiseag";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Coigeartaigh Lí";
+"buttonLabelRedToGreen" = "Dearg go Glas";
+"buttonLabelAdjust" = "Coigeartaigh";
+"buttonLabelCrop" = "Bearr";
+"buttonLabelDraw" = "Tarraing";
+"buttonLabelText" = "Téacs";
+"buttonLabelFilters" = "Scagairí";
+"buttonLabelOverlays" = "Forleagain";
+"buttonLabelStickers" = "Greamáin";
+"buttonLabelBeauty" = "Áilleacht";
+"buttonLabelBorders" = "Teorann";
+"actionSheetExportGallery" = "Easpórtáil Go Gailearaí";
+"actionSheetShare" = "Comhroinn";
+"alertTitleCreateAlbum" = "Cruthaigh albam";
+"alertTitleExportPhoto" = "Easpórtáil Grianghraf";
+"alertMsgCreateAlbumError" = "Earráid Chruthú Albam!";
+"alertMsgAccessAlbum" = "Rochtain Diúltaithe!";
+"alertMsgExportPhotoSuccess" = "Rath! Easpórtáil Grianghraf";
+"alertActionOK" = "ceart go leor";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Coigeartaigh";
+"buttonLabelBrightness" = "Gile";
+"buttonLabelContrast" = "Codarsnacht";
+"buttonLabelExposure" = "Nochtadh";
+"buttonLabelSharpness" = "Géire";
+"buttonLabelSaturation" = "Sáithiú";
+"buttonLabelWarm" = "teolaí";
+"buttonLabelFade" = "céimnithe";
+/* Crop VC */
+"navBarTitleCropVC" = "Bearr";
+"buttonLabelAsShot" = "Mar Urchar";
+"buttonLabelFree" = "Saor";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Tarraing";
+"buttonLabelOpacity" = "Teimhneacht";
+/* Text VC */
+"navBarTitleTextVC" = "Téacs";
+"placeholder" = "Tapáil Chun Edit";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Scagairí";
+"buttonLabelRedInfluence" = "Tionchar Rua";
+"buttonLabelScan" = "Scanadh";
+"buttonLabelExclusion" = "Eisiamh";
+
+/* Borders VC */
+"buttonLabelBorder" = "Teorainn";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "App Ráta";
+"buttonLabelPrivacyPolicy" = "Beartas Príobháideachais";
+"buttonLabelTermsOfUse" = "Téarmaí Úsáide";
+"buttonLabelHowItWorks" = "Conas a oibríonn sé?";
+"buttonLabelDarkMode" = "Mód Dorcha";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Íomhá á phróiseáil...";
+"viewSubTitleBackgroundRemovalVC" = "Swipe ar chlé nó ar dheis chun tús a chur le scriosadh an chúlra.";
+"navTitleBackgroundRemovalVC" = "Bain Cúlra";
+"buttonTitleBackgroundRemovalVC" = "Bain\nCúlra";
+"alertErrorMsgJSON" = "Earráid: Ní féidir na sonraí a thiontú go réad JSON";
+"alertErrorMsgTimeout" = "Earráid: Iarr am istigh!";
+"alertErrorMsgGenerateImage" = "Ní féidir an íomhá deiridh a ghiniúint!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Íomhá á phróiseáil...";
+"viewSubTitleObjectEraserVC" = "Déan teagmháil agus bog thar na rudaí atá le baint chun é a roghnú.";
+"navTitleObjectEraserVC" = "Scrios Réada";
+"buttonTitleObjectEraserVC" = "Scrios\nOibiachtaí";
+

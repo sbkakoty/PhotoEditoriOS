@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Mặt sau";
+"navBarButtonDone" = "Xong";
+"navBarTitleStartVC" = "Mở";
+/* Button Label */
+"labelTapToOpen" = "Nhấn để mở";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Chọn từ phòng trưng bày";
+"actionSheetCamera" = "Chụp hình";
+"actionSheetCancel" = "Hủy bỏ";
+"actionSheetSettings" = "Cài đặt";
+"actionSheetReviewReference" = "Đánh giá / Tham khảo";
+"actionSheetGuides" = "Hướng dẫn";
+"alertTitleGallerySettings" = "Truy cập thư viện";
+"alertMessageGallerySettings" = "Truy cập ảnh là bắt buộc.";
+"alertTitleCameraSettings" = "Truy cập máy ảnh";
+"alertMessageCameraSettings" = "Truy cập máy ảnh là bắt buộc.";
+"alertButtonAllow" = "Cho phép";
+/* camera preview */
+"actionRetakePhoto" = "Thi lại";
+"actionUsePhoto" = "Sử dụng ảnh";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Bình thường";
+"buttonLabelMoon" = "Mặt trăng";
+"buttonLabelLark" = "Chim sơn ca";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Điều chỉnh Huế";
+"buttonLabelRedToGreen" = "Đỏ sang xanh lục";
+"buttonLabelAdjust" = "Điều chỉnh";
+"buttonLabelCrop" = "Xén";
+"buttonLabelDraw" = "Vẽ tranh";
+"buttonLabelText" = "Chữ";
+"buttonLabelFilters" = "Bộ lọc";
+"buttonLabelOverlays" = "Lớp phủ";
+"buttonLabelStickers" = "Hình dán";
+"buttonLabelBeauty" = "Sắc đẹp";
+"buttonLabelBorders" = "Biên giới";
+"actionSheetExportGallery" = "Xuất sang Thư viện";
+"actionSheetShare" = "Đăng lại";
+"alertTitleCreateAlbum" = "Tạo Anbom";
+"alertTitleExportPhoto" = "Xuất ảnh";
+"alertMsgCreateAlbumError" = "Anbom Tạo Lỗi!";
+"alertMsgAccessAlbum" = "Truy cập bị Từ chối!";
+"alertMsgExportPhotoSuccess" = "Thành công! Xuất ảnh";
+"alertActionOK" = "ĐƯỢC RỒI";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Điều chỉnh";
+"buttonLabelBrightness" = "độ sáng";
+"buttonLabelContrast" = "Tương phản";
+"buttonLabelExposure" = "Phơi bày";
+"buttonLabelSharpness" = "Độ sắc nét";
+"buttonLabelSaturation" = "Bão hòa";
+"buttonLabelWarm" = "Ấm áp";
+"buttonLabelFade" = "Phai màu";
+/* Crop VC */
+"navBarTitleCropVC" = "Cắt";
+"buttonLabelAsShot" = "Như bắn";
+"buttonLabelFree" = "Tự do";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Rút thăm";
+"buttonLabelOpacity" = "Độ mờ";
+/* Text VC */
+"navBarTitleTextVC" = "Chữ";
+"placeholder" = "Nhấn để chỉnh sửa";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Các bộ lọc";
+"buttonLabelRedInfluence" = "Ảnh hưởng màu đỏ";
+"buttonLabelScan" = "Quét";
+"buttonLabelExclusion" = "Sự loại trừ";
+
+/* Borders VC */
+"buttonLabelBorder" = "Ranh giới";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Đánh giá ứng dụng";
+"buttonLabelPrivacyPolicy" = "Chính sách bảo mật";
+"buttonLabelTermsOfUse" = "Điều khoản sử dụng";
+"buttonLabelHowItWorks" = "Làm thế nào nó hoạt động?";
+"buttonLabelDarkMode" = "Chế độ tối";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Đang xử lý hình ảnh...";
+"viewSubTitleBackgroundRemovalVC" = "Vuốt sang trái hoặc phải để bắt đầu xóa nền.";
+"navTitleBackgroundRemovalVC" = "Xóa khung nền";
+"buttonTitleBackgroundRemovalVC" = "Xóa\nNền";
+"alertErrorMsgJSON" = "Lỗi: Không thể chuyển đổi dữ liệu thành đối tượng JSON";
+"alertErrorMsgTimeout" = "Lỗi: Yêu cầu hết thời gian chờ!";
+"alertErrorMsgGenerateImage" = "Không thể tạo hình ảnh cuối cùng!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Đang xử lý hình ảnh...";
+"viewSubTitleObjectEraserVC" = "Chạm và di chuyển qua các đối tượng cần xóa để chọn.";
+"navTitleObjectEraserVC" = "Xóa đối tượng";
+"buttonTitleObjectEraserVC" = "Xóa\nĐối tượng";
+

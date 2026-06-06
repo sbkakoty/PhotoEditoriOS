@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Atpakaļ";
+"navBarButtonDone" = "Pabeigts";
+"navBarTitleStartVC" = "Atvērt";
+/* Button Label */
+"labelTapToOpen" = "Pieskarieties, lai atvērtu";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Izvēlieties no galerijas";
+"actionSheetCamera" = "Uzņemt bildi";
+"actionSheetCancel" = "Atcelt";
+"actionSheetSettings" = "Iestatījumi";
+"actionSheetReviewReference" = "Pārskats/ Atsauce";
+"actionSheetGuides" = "Ceļveži";
+"alertTitleGallerySettings" = "Piekļūstiet galerijai";
+"alertMessageGallerySettings" = "Nepieciešama piekļuve fotoattēlam.";
+"alertTitleCameraSettings" = "Piekļūstiet kamerai";
+"alertMessageCameraSettings" = "Nepieciešama piekļuve kamerai.";
+"alertButtonAllow" = "Atļaut";
+/* camera preview */
+"actionRetakePhoto" = "Atkārtoti uzņemt";
+"actionUsePhoto" = "Izmantot Fotoattēlu";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normāls";
+"buttonLabelMoon" = "Mēness";
+"buttonLabelLark" = "Lark";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Nokrāsu regulēšana";
+"buttonLabelRedToGreen" = "Sarkans Uz Zaļš";
+"buttonLabelAdjust" = "Noregulējiet";
+"buttonLabelCrop" = "Crop";
+"buttonLabelDraw" = "Zīmēt";
+"buttonLabelText" = "Teksts";
+"buttonLabelFilters" = "Filtri";
+"buttonLabelOverlays" = "Pārklājumi";
+"buttonLabelStickers" = "Uzlīmes";
+"buttonLabelBeauty" = "Skaistums";
+"buttonLabelBorders" = "Robežas";
+"actionSheetExportGallery" = "Eksportēt uz galeriju";
+"actionSheetShare" = "Kopīgojiet to";
+"alertTitleCreateAlbum" = "Izveidot albumu";
+"alertTitleExportPhoto" = "Eksportēt fotoattēlu";
+"alertMsgCreateAlbumError" = "Albuma izveides kļūda!";
+"alertMsgAccessAlbum" = "Pieeja noliegta!";
+"alertMsgExportPhotoSuccess" = "Fotoattēlu eksporta panākumi.";
+"alertActionOK" = "Labi";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Pielāgot";
+"buttonLabelBrightness" = "Spilgtums";
+"buttonLabelContrast" = "Kontrasts";
+"buttonLabelExposure" = "Iedarbība";
+"buttonLabelSharpness" = "Asums";
+"buttonLabelSaturation" = "Piesātinājums";
+"buttonLabelWarm" = "Silts";
+"buttonLabelFade" = "Izbalināt";
+/* Crop VC */
+"navBarTitleCropVC" = "Apgriezt";
+"buttonLabelAsShot" = "Kā Šāviens";
+"buttonLabelFree" = "bezmaksas";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Zīmēt";
+"buttonLabelOpacity" = "Necaurredzamība";
+/* Text VC */
+"navBarTitleTextVC" = "Teksts";
+"placeholder" = "Pieskarieties pie Lai rediģētu";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filtri";
+"buttonLabelRedInfluence" = "Sarkanā ietekme";
+"buttonLabelScan" = "Skenēt";
+"buttonLabelExclusion" = "Izslēgšana";
+
+/* Borders VC */
+"buttonLabelBorder" = "Robeža";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Novērtēt lietotni";
+"buttonLabelPrivacyPolicy" = "Privātuma politika";
+"buttonLabelTermsOfUse" = "Lietošanas noteikumi";
+"buttonLabelHowItWorks" = "Kā tas strādā?";
+"buttonLabelDarkMode" = "Tumšais režīms";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Notiek attēla apstrāde...";
+"viewSubTitleBackgroundRemovalVC" = "Velciet pa kreisi vai pa labi, lai sāktu fona dzēšanu.";
+"navTitleBackgroundRemovalVC" = "Noņemt fonu";
+"buttonTitleBackgroundRemovalVC" = "Noņemt\nFonu";
+"alertErrorMsgJSON" = "Kļūda: nevar konvertēt datus par JSON objektu";
+"alertErrorMsgTimeout" = "Kļūda: Pieprasīt taimautu!";
+"alertErrorMsgGenerateImage" = "Nevar ģenerēt galīgo attēlu!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Notiek attēla apstrāde...";
+"viewSubTitleObjectEraserVC" = "Pieskarieties noņemamajiem objektiem un pārvietojiet tos, lai tos atlasītu.";
+"navTitleObjectEraserVC" = "Dzēst objektus";
+"buttonTitleObjectEraserVC" = "Dzēst\nObjektus";
+

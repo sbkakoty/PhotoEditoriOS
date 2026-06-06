@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Zréck";
+"navBarButtonDone" = "Gemaach";
+"navBarTitleStartVC" = "Oppen";
+/* Button Label */
+"labelTapToOpen" = "Tippen fir opzemaachen";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Wielt aus Galerie";
+"actionSheetCamera" = "Foto maachen";
+"actionSheetCancel" = "Ofbriechen";
+"actionSheetSettings" = "Astellungen";
+"actionSheetReviewReference" = "Iwwerpréiwung / Referenz";
+"actionSheetGuides" = "Guiden";
+"alertTitleGallerySettings" = "Zougang Galerie";
+"alertMessageGallerySettings" = "Foto Zougang ass néideg.";
+"alertTitleCameraSettings" = "Zougang Kamera";
+"alertMessageCameraSettings" = "Kamera Zougang ass néideg.";
+"alertButtonAllow" = "Erlaabt";
+/* camera preview */
+"actionRetakePhoto" = "Widderhuelen";
+"actionUsePhoto" = "Benotzt Foto";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normal";
+"buttonLabelMoon" = "Mound";
+"buttonLabelLark" = "Lerch";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Hue Upassung";
+"buttonLabelRedToGreen" = "Rout bis Gréng";
+"buttonLabelAdjust" = "Ajustéieren";
+"buttonLabelCrop" = "Crop";
+"buttonLabelDraw" = "Zeechnen";
+"buttonLabelText" = "Text";
+"buttonLabelFilters" = "Filteren";
+"buttonLabelOverlays" = "Iwwerlagerungen";
+"buttonLabelStickers" = "Stickeren";
+"buttonLabelBeauty" = "Schéinheet";
+"buttonLabelBorders" = "Grenzen";
+"actionSheetExportGallery" = "Export zu Galerie";
+"actionSheetShare" = "Deelen et";
+"alertTitleCreateAlbum" = "Album erstellen";
+"alertTitleExportPhoto" = "Foto exportéieren";
+"alertMsgCreateAlbumError" = "Album Erstellen Feeler!";
+"alertMsgAccessAlbum" = "Zugrëff refuséiert!";
+"alertMsgExportPhotoSuccess" = "Foto Export Erfolleg.";
+"alertActionOK" = "Okay";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Ajustéieren";
+"buttonLabelBrightness" = "Hellegkeet";
+"buttonLabelContrast" = "Kontrast";
+"buttonLabelExposure" = "Expositioun";
+"buttonLabelSharpness" = "Schärft";
+"buttonLabelSaturation" = "Sättigung";
+"buttonLabelWarm" = "Warm";
+"buttonLabelFade" = "Fade";
+/* Crop VC */
+"navBarTitleCropVC" = "Schnëtt";
+"buttonLabelAsShot" = "Als Schoss";
+"buttonLabelFree" = "fräi";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Zeechnen";
+"buttonLabelOpacity" = "Opazitéit";
+/* Text VC */
+"navBarTitleTextVC" = "Text";
+"placeholder" = "Tippen fir z'änneren";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filteren";
+"buttonLabelRedInfluence" = "Rout Afloss";
+"buttonLabelScan" = "Scan";
+"buttonLabelExclusion" = "Ausgrenzung";
+
+/* Borders VC */
+"buttonLabelBorder" = "Grenz";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Bewäertung App";
+"buttonLabelPrivacyPolicy" = "Privatsphär Politik";
+"buttonLabelTermsOfUse" = "Benotzungsconditiounen";
+"buttonLabelHowItWorks" = "Wéi funktionnéiert et?";
+"buttonLabelDarkMode" = "Däischter Modus";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Bild veraarbecht...";
+"viewSubTitleBackgroundRemovalVC" = "Swipe lénks oder riets fir den Hannergrond ze läschen.";
+"navTitleBackgroundRemovalVC" = "Ewechzehuelen Hannergrond";
+"buttonTitleBackgroundRemovalVC" = "Ewechzehuelen\nHannergrond";
+"alertErrorMsgJSON" = "Feeler: Kann Daten net an JSON Objet konvertéieren";
+"alertErrorMsgTimeout" = "Feeler: Ufro Timeout!";
+"alertErrorMsgGenerateImage" = "Kann net final Bild generéieren!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Bild veraarbecht...";
+"viewSubTitleObjectEraserVC" = "Touch a réckelt iwwer d'Objete fir ze läschen fir se ze wielen.";
+"navTitleObjectEraserVC" = "Objekter läschen";
+"buttonTitleObjectEraserVC" = "Läschen\nObjeten";
+

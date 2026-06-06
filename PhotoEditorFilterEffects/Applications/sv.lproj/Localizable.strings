@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Tillbaka";
+"navBarButtonDone" = "Gjort";
+"navBarTitleStartVC" = "Öppna";
+/* Button Label */
+"labelTapToOpen" = "Tryck för att öppna";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Välj från galleri";
+"actionSheetCamera" = "Ta ett foto";
+"actionSheetCancel" = "Avbryt";
+"actionSheetSettings" = "inställningar";
+"actionSheetReviewReference" = "Granskning/referens";
+"actionSheetGuides" = "Guider";
+"alertTitleGallerySettings" = "Gå till Galleri";
+"alertMessageGallerySettings" = "Fotoåtkomst krävs.";
+"alertTitleCameraSettings" = "Få tillgång till kamera";
+"alertMessageCameraSettings" = "Kameraåtkomst krävs.";
+"alertButtonAllow" = "Tillåta";
+/* camera preview */
+"actionRetakePhoto" = "Ta om";
+"actionUsePhoto" = "Använd Foto";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Vanligt";
+"buttonLabelMoon" = "Måne";
+"buttonLabelLark" = "Lärka";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Justera nyans";
+"buttonLabelRedToGreen" = "Röd Till Grön";
+"buttonLabelAdjust" = "Justera";
+"buttonLabelCrop" = "Trim";
+"buttonLabelDraw" = "Dra";
+"buttonLabelText" = "Text";
+"buttonLabelFilters" = "Filter";
+"buttonLabelOverlays" = "Överlägg";
+"buttonLabelStickers" = "Klistermärken";
+"buttonLabelBeauty" = "Skönhet";
+"buttonLabelBorders" = "Gränser";
+"actionSheetExportGallery" = "Exportera till Galleri";
+"actionSheetShare" = "Dela med sig";
+"alertTitleCreateAlbum" = "Skapa album";
+"alertTitleExportPhoto" = "Exportera foto";
+"alertMsgCreateAlbumError" = "Album skapa fel!";
+"alertMsgAccessAlbum" = "Tillträde beviljas ej!";
+"alertMsgExportPhotoSuccess" = "Framgång! Fotoexport";
+"alertActionOK" = "OK";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Justera";
+"buttonLabelBrightness" = "Ljusstyrka";
+"buttonLabelContrast" = "Kontrast";
+"buttonLabelExposure" = "Exponering";
+"buttonLabelSharpness" = "Skärpa";
+"buttonLabelSaturation" = "Mättnad";
+"buttonLabelWarm" = "Värma";
+"buttonLabelFade" = "Blekna";
+/* Crop VC */
+"navBarTitleCropVC" = "Beskära";
+"buttonLabelAsShot" = "Som Skott";
+"buttonLabelFree" = "Fri";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Rita";
+"buttonLabelOpacity" = "Opacitet";
+/* Text VC */
+"navBarTitleTextVC" = "Text";
+"placeholder" = "Tryck för att redigera";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filter";
+"buttonLabelRedInfluence" = "Rött inflytande";
+"buttonLabelScan" = "Skanna";
+"buttonLabelExclusion" = "Exkludering";
+
+/* Borders VC */
+"buttonLabelBorder" = "Ram";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Betygsätt app";
+"buttonLabelPrivacyPolicy" = "Integritetspolicy";
+"buttonLabelTermsOfUse" = "Villkor";
+"buttonLabelHowItWorks" = "Hur det fungerar?";
+"buttonLabelDarkMode" = "Mörkt läge";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Bearbetar bild...";
+"viewSubTitleBackgroundRemovalVC" = "Svep åt vänster eller höger för att börja radera bakgrunden.";
+"navTitleBackgroundRemovalVC" = "Ta bort bakgrund";
+"buttonTitleBackgroundRemovalVC" = "Ta bort\nBakgrund";
+"alertErrorMsgJSON" = "Fel: Kan inte konvertera data till JSON-objekt";
+"alertErrorMsgTimeout" = "Fel: Begär timeout!";
+"alertErrorMsgGenerateImage" = "Kan inte skapa den slutliga bilden!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Bearbetar bild...";
+"viewSubTitleObjectEraserVC" = "Peka på och flytta över objekten som ska tas bort för att välja det.";
+"navTitleObjectEraserVC" = "Radera objekt";
+"buttonTitleObjectEraserVC" = "Radera\nObjekt";
+

@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "tagasi";
+"navBarButtonDone" = "Valmis";
+"navBarTitleStartVC" = "Avatud";
+/* Button Label */
+"labelTapToOpen" = "Avamiseks puudutage";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Valige galeriist";
+"actionSheetCamera" = "Pildistama";
+"actionSheetCancel" = "Tühista";
+"actionSheetSettings" = "Seaded";
+"actionSheetReviewReference" = "Ülevaade/viited";
+"actionSheetGuides" = "Juhendid";
+"alertTitleGallerySettings" = "Juurdepääs galeriile";
+"alertMessageGallerySettings" = "Vajalik on juurdepääs fotodele.";
+"alertTitleCameraSettings" = "Juurdepääs kaamerale";
+"alertMessageCameraSettings" = "Juurdepääs kaamerale on vajalik.";
+"alertButtonAllow" = "Lubama";
+/* camera preview */
+"actionRetakePhoto" = "Kordusvõte";
+"actionUsePhoto" = "Kasuta Fotot";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Tavaline";
+"buttonLabelMoon" = "Kuu";
+"buttonLabelLark" = "Lark";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Toonuse reguleerimine";
+"buttonLabelRedToGreen" = "Punane Roheliseks";
+"buttonLabelAdjust" = "Reguleerige";
+"buttonLabelCrop" = "Kärp";
+"buttonLabelDraw" = "Joonista";
+"buttonLabelText" = "Tekst";
+"buttonLabelFilters" = "Filtrid";
+"buttonLabelOverlays" = "Ülekatted";
+"buttonLabelStickers" = "Kleebised";
+"buttonLabelBeauty" = "Ilu";
+"buttonLabelBorders" = "Piirid";
+"actionSheetExportGallery" = "Ekspordi galeriisse";
+"actionSheetShare" = "Jaga seda";
+"alertTitleCreateAlbum" = "Loo album";
+"alertTitleExportPhoto" = "Ekspordi foto";
+"alertMsgCreateAlbumError" = "Viga albumi loomisel!";
+"alertMsgAccessAlbum" = "Ligipääs keelatud!";
+"alertMsgExportPhotoSuccess" = "Edu fotode ekspordiks.";
+"alertActionOK" = "Okei";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Kohandage";
+"buttonLabelBrightness" = "Heledus";
+"buttonLabelContrast" = "Kontrast";
+"buttonLabelExposure" = "Kokkupuude";
+"buttonLabelSharpness" = "Teravus";
+"buttonLabelSaturation" = "Küllastus";
+"buttonLabelWarm" = "Soe";
+"buttonLabelFade" = "tuhm";
+/* Crop VC */
+"navBarTitleCropVC" = "Kärbi";
+"buttonLabelAsShot" = "Nagu Shot";
+"buttonLabelFree" = "Vaba";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Joonista";
+"buttonLabelOpacity" = "Läbipaistmatus";
+/* Text VC */
+"navBarTitleTextVC" = "Tekst";
+"placeholder" = "Puudutage Redigeerimiseks";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filtrid";
+"buttonLabelRedInfluence" = "Punane mõju";
+"buttonLabelScan" = "Skaneeri";
+"buttonLabelExclusion" = "Väljajätmine";
+
+/* Borders VC */
+"buttonLabelBorder" = "Piir";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Hinda rakendust";
+"buttonLabelPrivacyPolicy" = "Privaatsuspoliitika";
+"buttonLabelTermsOfUse" = "Kasutustingimused";
+"buttonLabelHowItWorks" = "Kuidas see töötab?";
+"buttonLabelDarkMode" = "Tume režiim";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Pildi töötlemine...";
+"viewSubTitleBackgroundRemovalVC" = "Tausta kustutamise alustamiseks pühkige vasakule või paremale.";
+"navTitleBackgroundRemovalVC" = "Eemalda taust";
+"buttonTitleBackgroundRemovalVC" = "Eemalda\nTaust";
+"alertErrorMsgJSON" = "Viga: JSON-objekti toomine";
+"alertErrorMsgTimeout" = "Viga: taotlege aegumist!";
+"alertErrorMsgGenerateImage" = "Lõplikku pilti ei saa luua!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Pildi töötlemine...";
+"viewSubTitleObjectEraserVC" = "Puudutage eemaldatavaid objekte ja liigutage selle valimiseks üle.";
+"navTitleObjectEraserVC" = "Kustuta objektid";
+"buttonTitleObjectEraserVC" = "Kustuta\nObjektid";
+

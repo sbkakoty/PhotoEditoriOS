@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "חזור";
+"navBarButtonDone" = "בוצע";
+"navBarTitleStartVC" = "לִפְתוֹחַ";
+/* Button Label */
+"labelTapToOpen" = "הקש כדי לפתוח";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "בחר מתוך הגלריה";
+"actionSheetCamera" = "לצלם";
+"actionSheetCancel" = "לְבַטֵל";
+"actionSheetSettings" = "הגדרות";
+"actionSheetReviewReference" = "סקירה / הפניה";
+"actionSheetGuides" = "מדריכים";
+"alertTitleGallerySettings" = "גישה לגלריה";
+"alertMessageGallerySettings" = "נדרשת גישה לתמונה.";
+"alertTitleCameraSettings" = "גישה למצלמה";
+"alertMessageCameraSettings" = "נדרשת גישה למצלמה.";
+"alertButtonAllow" = "להתיר";
+/* camera preview */
+"actionRetakePhoto" = "לְצַלֵם שׁוּב";
+"actionUsePhoto" = "השתמש בתמונה";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "נוֹרמָלִי";
+"buttonLabelMoon" = "ירח";
+"buttonLabelLark" = "לְהִשְׁתַעֲשֵׁעַ";
+"buttonLabelReyes" = "רייס";
+"buttonLabelHueAdjust" = "התאמת גוון";
+"buttonLabelRedToGreen" = "אדום לירוק";
+"buttonLabelAdjust" = "לְהַתְאִים";
+"buttonLabelCrop" = "יְבוּל";
+"buttonLabelDraw" = "לצייר";
+"buttonLabelText" = "טֶקסט";
+"buttonLabelFilters" = "מסננים";
+"buttonLabelOverlays" = "שכבות-על";
+"buttonLabelStickers" = "מדבקות";
+"buttonLabelBeauty" = "יוֹפִי";
+"buttonLabelBorders" = "גבולות";
+"actionSheetExportGallery" = "ייצוא לגלריה";
+"actionSheetShare" = "לַחֲלוֹק";
+"alertTitleCreateAlbum" = "צור אלבום";
+"alertTitleExportPhoto" = "ייצא תמונה";
+"alertMsgCreateAlbumError" = "שגיאה ביצירת אלבום!";
+"alertMsgAccessAlbum" = "גישה נדחתה!";
+"alertMsgExportPhotoSuccess" = "הַצלָחָה! ייצוא תמונות";
+"alertActionOK" = "בסדר";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "לְהַתְאִים";
+"buttonLabelBrightness" = "בְּהִירוּת";
+"buttonLabelContrast" = "בניגוד";
+"buttonLabelExposure" = "חשיפה";
+"buttonLabelSharpness" = "חַדוּת";
+"buttonLabelSaturation" = "רִוּוּי";
+"buttonLabelWarm" = "נעים";
+"buttonLabelFade" = "לִדעוֹך";
+/* Crop VC */
+"navBarTitleCropVC" = "חיתוך";
+"buttonLabelAsShot" = "כמו ירייה";
+"buttonLabelFree" = "חינם";
+"buttonLabelFacebook" = "פייסבוק";
+"buttonLabeliPhone" = "אייפון";
+/* Draw VC */
+"navBarTitleDrawVC" = "לצייר";
+"buttonLabelOpacity" = "אֲטִימוּת";
+/* Text VC */
+"navBarTitleTextVC" = "טֶקסט";
+"placeholder" = "הקש כדי לערוך";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "מסננים";
+"buttonLabelRedInfluence" = "השפעה אדומה";
+"buttonLabelScan" = "לִסְרוֹק";
+"buttonLabelExclusion" = "הוֹצָאָה מִן הַכְלַל";
+
+/* Borders VC */
+"buttonLabelBorder" = "לִגבּוֹל";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "דרג אפליקציה";
+"buttonLabelPrivacyPolicy" = "מדיניות פרטיות";
+"buttonLabelTermsOfUse" = "תנאי שימוש";
+"buttonLabelHowItWorks" = "איך זה עובד?";
+"buttonLabelDarkMode" = "מצב כהה";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "מעבד תמונה...";
+"viewSubTitleBackgroundRemovalVC" = "החלק שמאלה או ימינה כדי להתחיל את מחיקת הרקע.";
+"navTitleBackgroundRemovalVC" = "הסר רקע";
+"buttonTitleBackgroundRemovalVC" = "הסר\nרקע";
+"alertErrorMsgJSON" = "שגיאה: מביא אובייקט JSON";
+"alertErrorMsgTimeout" = "שגיאה: בקש פסק זמן!";
+"alertErrorMsgGenerateImage" = "לא מצליח ליצור תמונה סופית!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "מעבד תמונה...";
+"viewSubTitleObjectEraserVC" = "גע והעבר מעל האובייקטים שיש להסיר כדי לבחור בו.";
+"navTitleObjectEraserVC" = "מחק אובייקטים";
+"buttonTitleObjectEraserVC" = "מחק\nאובייקטים";
+

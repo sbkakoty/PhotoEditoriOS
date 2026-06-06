@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "belakang";
+"navBarButtonDone" = "Selesai";
+"navBarTitleStartVC" = "Buka";
+/* Button Label */
+"labelTapToOpen" = "Ketik untuk membuka";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Pilih daripada galeri";
+"actionSheetCamera" = "Mengambil gambar";
+"actionSheetCancel" = "Batal";
+"actionSheetSettings" = "tetapan";
+"actionSheetReviewReference" = "Semakan/ Rujukan";
+"actionSheetGuides" = "Pemandu";
+"alertTitleGallerySettings" = "Akses Galeri";
+"alertMessageGallerySettings" = "Akses foto diperlukan.";
+"alertTitleCameraSettings" = "Akses Kamera";
+"alertMessageCameraSettings" = "Akses kamera diperlukan.";
+"alertButtonAllow" = "benarkan";
+/* camera preview */
+"actionRetakePhoto" = "Ambil semula";
+"actionUsePhoto" = "Gunakan Foto";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Biasalah";
+"buttonLabelMoon" = "Bulan";
+"buttonLabelLark" = "Lark";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Laraskan Hue";
+"buttonLabelRedToGreen" = "Merah Ke Hijau";
+"buttonLabelAdjust" = "Melaraskan";
+"buttonLabelCrop" = "Potong";
+"buttonLabelDraw" = "Lukis";
+"buttonLabelText" = "Teks";
+"buttonLabelFilters" = "Penapis";
+"buttonLabelOverlays" = "Tindanan";
+"buttonLabelStickers" = "Pelekat";
+"buttonLabelBeauty" = "Kecantikan";
+"buttonLabelBorders" = "Sempadan";
+"actionSheetExportGallery" = "Eksport Ke Galeri";
+"actionSheetShare" = "Kongsi";
+"alertTitleCreateAlbum" = "Cipta Album";
+"alertTitleExportPhoto" = "Eksport Foto";
+"alertMsgCreateAlbumError" = "Ralat Cipta Album!";
+"alertMsgAccessAlbum" = "Akses dinafikan!";
+"alertMsgExportPhotoSuccess" = "Berjaya! Eksport Foto";
+"alertActionOK" = "okey";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Melaraskan";
+"buttonLabelBrightness" = "Kecerahan";
+"buttonLabelContrast" = "Berbeza";
+"buttonLabelExposure" = "Dedahan";
+"buttonLabelSharpness" = "Ketajaman";
+"buttonLabelSaturation" = "Ketepuan";
+"buttonLabelWarm" = "hangat";
+"buttonLabelFade" = "pudar";
+/* Crop VC */
+"navBarTitleCropVC" = "kliping";
+"buttonLabelAsShot" = "As Shot";
+"buttonLabelFree" = "Percuma";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Lukis";
+"buttonLabelOpacity" = "Kelegapan";
+/* Text VC */
+"navBarTitleTextVC" = "Teks";
+"placeholder" = "Ketik Untuk Edit";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Penapis";
+"buttonLabelRedInfluence" = "Pengaruh Merah";
+"buttonLabelScan" = "Mengimbas";
+"buttonLabelExclusion" = "Penyisihan";
+
+/* Borders VC */
+"buttonLabelBorder" = "Sempadan";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Apl Nilai";
+"buttonLabelPrivacyPolicy" = "Dasar Privasi";
+"buttonLabelTermsOfUse" = "Syarat Penggunaan";
+"buttonLabelHowItWorks" = "Bagaimana ia berfungsi?";
+"buttonLabelDarkMode" = "Mod Gelap";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Memproses imej...";
+"viewSubTitleBackgroundRemovalVC" = "Leret ke kiri atau kanan untuk memulakan pemadaman latar belakang.";
+"navTitleBackgroundRemovalVC" = "Alih Keluar Latar Belakang";
+"buttonTitleBackgroundRemovalVC" = "Alih keluar\nLatar belakang";
+"alertErrorMsgJSON" = "Ralat: Tidak boleh menukar data kepada objek JSON";
+"alertErrorMsgTimeout" = "Ralat: Minta tamat masa!";
+"alertErrorMsgGenerateImage" = "Tidak dapat menjana imej akhir!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Memproses imej...";
+"viewSubTitleObjectEraserVC" = "Sentuh dan gerakkan objek yang hendak dialih keluar untuk memilihnya.";
+"navTitleObjectEraserVC" = "Padam Objek";
+"buttonTitleObjectEraserVC" = "Padam\nObjek";
+

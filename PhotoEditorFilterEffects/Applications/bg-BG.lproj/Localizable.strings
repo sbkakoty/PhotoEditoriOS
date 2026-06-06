@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Назад";
+"navBarButtonDone" = "Свършен";
+"navBarTitleStartVC" = "отворено";
+/* Button Label */
+"labelTapToOpen" = "Докоснете за отваряне";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Избери от галерия";
+"actionSheetCamera" = "Снимам";
+"actionSheetCancel" = "Отмени";
+"actionSheetSettings" = "Настройки";
+"actionSheetReviewReference" = "Рецензия/ Справка";
+"actionSheetGuides" = "Направляващи";
+"alertTitleGallerySettings" = "Достъп до Галерия";
+"alertMessageGallerySettings" = "Изисква се достъп до снимки.";
+"alertTitleCameraSettings" = "Достъп до камерата";
+"alertMessageCameraSettings" = "Изисква се достъп до камерата.";
+"alertButtonAllow" = "Позволява";
+/* camera preview */
+"actionRetakePhoto" = "вземете отново";
+"actionUsePhoto" = "Използвайте Снимката";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Нормално";
+"buttonLabelMoon" = "Луна";
+"buttonLabelLark" = "чучулига";
+"buttonLabelReyes" = "Рейес";
+"buttonLabelHueAdjust" = "Регулирайте оттенъка";
+"buttonLabelRedToGreen" = "Червено до зелено";
+"buttonLabelAdjust" = "Коригирайте";
+"buttonLabelCrop" = "Изрежете";
+"buttonLabelDraw" = "Рисувай";
+"buttonLabelText" = "Текст";
+"buttonLabelFilters" = "Филтри";
+"buttonLabelOverlays" = "наслагвания";
+"buttonLabelStickers" = "Стикери";
+"buttonLabelBeauty" = "красота";
+"buttonLabelBorders" = "Граници";
+"actionSheetExportGallery" = "Експортиране в галерия";
+"actionSheetShare" = "Сподели";
+"alertTitleCreateAlbum" = "Създаване на албум";
+"alertTitleExportPhoto" = "Експорт на снимка";
+"alertMsgCreateAlbumError" = "Грешка при създаване на албум!";
+"alertMsgAccessAlbum" = "Отказан достъп!";
+"alertMsgExportPhotoSuccess" = "Успех! Експортиране на снимки";
+"alertActionOK" = "Добре";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Коригирайте";
+"buttonLabelBrightness" = "Яркост";
+"buttonLabelContrast" = "Контраст";
+"buttonLabelExposure" = "Излагане";
+"buttonLabelSharpness" = "Острота";
+"buttonLabelSaturation" = "Насищане";
+"buttonLabelWarm" = "Топло";
+"buttonLabelFade" = "Избледняване";
+/* Crop VC */
+"navBarTitleCropVC" = "Изрежете";
+"buttonLabelAsShot" = "Оригинален";
+"buttonLabelFree" = "Безплатен";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Начертайте";
+"buttonLabelOpacity" = "Непрозрачност";
+/* Text VC */
+"navBarTitleTextVC" = "Текст";
+"placeholder" = "Докоснете за редактиране";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Филтри";
+"buttonLabelRedInfluence" = "Червено влияние";
+"buttonLabelScan" = "Сканиране";
+"buttonLabelExclusion" = "Изключване";
+
+/* Borders VC */
+"buttonLabelBorder" = "Граница";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Оценете приложението";
+"buttonLabelPrivacyPolicy" = "Политика за поверителност";
+"buttonLabelTermsOfUse" = "Условия за ползване";
+"buttonLabelHowItWorks" = "Как работи?";
+"buttonLabelDarkMode" = "Тъмен режим";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Изображението се обработва...";
+"viewSubTitleBackgroundRemovalVC" = "Плъзнете наляво или надясно, за да започнете изтриването на фона.";
+"navTitleBackgroundRemovalVC" = "Премахване на фона";
+"buttonTitleBackgroundRemovalVC" = "Премахване на\nфон";
+"alertErrorMsgJSON" = "Грешка: Не може да се преобразуват данни в JSON обект";
+"alertErrorMsgTimeout" = "Грешка: Време за изчакване на заявката!";
+"alertErrorMsgGenerateImage" = "Не може да се генерира крайно изображение!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Изображението се обработва...";
+"viewSubTitleObjectEraserVC" = "Докоснете и преместете обектите, които искате да премахнете, за да ги изберете.";
+"navTitleObjectEraserVC" = "Изтриване на обекти";
+"buttonTitleObjectEraserVC" = "Изтриване на\nобекти";
+

@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "पीछे";
+"navBarButtonDone" = "पूर्ण";
+"navBarTitleStartVC" = "खुला हुआ";
+/* Button Label */
+"labelTapToOpen" = "खोलने के लिए नल";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "गैलरी से चयन करो";
+"actionSheetCamera" = "फोटो लो";
+"actionSheetCancel" = "रद्द करना";
+"actionSheetSettings" = "समायोजन";
+"actionSheetReviewReference" = "समीक्षा/संदर्भ";
+"actionSheetGuides" = "गाइड";
+"alertTitleGallerySettings" = "एक्सेस गैलरी";
+"alertMessageGallerySettings" = "फोटो का उपयोग आवश्यक है।";
+"alertTitleCameraSettings" = "एक्सेस कैमरा";
+"alertMessageCameraSettings" = "कैमरा एक्सेस आवश्यक है।";
+"alertButtonAllow" = "अनुमति देना";
+/* camera preview */
+"actionRetakePhoto" = "फिर से लेना";
+"actionUsePhoto" = "फोटो का प्रयोग करें";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "सामान्य";
+"buttonLabelMoon" = "चाँद";
+"buttonLabelLark" = "लार्क";
+"buttonLabelReyes" = "रेयेस";
+"buttonLabelHueAdjust" = "ह्यू एडजस्ट";
+"buttonLabelRedToGreen" = "लाल से हरा";
+"buttonLabelAdjust" = "एडजस्ट करें";
+"buttonLabelCrop" = "काटना";
+"buttonLabelDraw" = "ड्रा";
+"buttonLabelText" = "टेक्स्ट";
+"buttonLabelFilters" = "फिल्टर";
+"buttonLabelOverlays" = "ओवरले";
+"buttonLabelStickers" = "स्टिकर";
+"buttonLabelBeauty" = "खूबसूरती";
+"buttonLabelBorders" = "सीमाओं";
+"actionSheetExportGallery" = "गैलरी में निर्यात करें";
+"actionSheetShare" = "शेयर करना";
+"alertTitleCreateAlbum" = "एल्बम बनाओ";
+"alertTitleExportPhoto" = "निर्यात फोटो";
+"alertMsgCreateAlbumError" = "एलबम बनाने में त्रुटि!";
+"alertMsgAccessAlbum" = "प्रवेश अस्वीकृत!";
+"alertMsgExportPhotoSuccess" = "कामयाबी! फोटो निर्यात";
+"alertActionOK" = "ठीक है";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "समायोजित करना";
+"buttonLabelBrightness" = "चमक";
+"buttonLabelContrast" = "अंतर";
+"buttonLabelExposure" = "संसर्ग";
+"buttonLabelSharpness" = "तीखेपन";
+"buttonLabelSaturation" = "परिपूर्णता";
+"buttonLabelWarm" = "गरम";
+"buttonLabelFade" = "हल्का होना";
+/* Crop VC */
+"navBarTitleCropVC" = "काटना";
+"buttonLabelAsShot" = "शॉट के रूप में";
+"buttonLabelFree" = "मुक्त";
+"buttonLabelFacebook" = "फेसबुक";
+"buttonLabeliPhone" = "आई - फ़ोन";
+/* Draw VC */
+"navBarTitleDrawVC" = "ड्रा";
+"buttonLabelOpacity" = "अपारदर्शिता";
+/* Text VC */
+"navBarTitleTextVC" = "मूलपाठ";
+"placeholder" = "संपादित करने के लिए टैप करें";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "फिल्टर";
+"buttonLabelRedInfluence" = "लाल प्रभाव:";
+"buttonLabelScan" = "स्कैन:";
+"buttonLabelExclusion" = "बहिष्करण";
+
+/* Borders VC */
+"buttonLabelBorder" = "बॉर्डर";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "एप्प का मूल्यांकन";
+"buttonLabelPrivacyPolicy" = "गोपनीयता नीति";
+"buttonLabelTermsOfUse" = "उपयोग की शर्तें";
+"buttonLabelHowItWorks" = "यह काम किस प्रकार करता है?";
+"buttonLabelDarkMode" = "डार्क मोड";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "इमेज प्रोसेस की जा रही है...";
+"viewSubTitleBackgroundRemovalVC" = "पृष्ठभूमि मिटाना प्रारंभ करने के लिए बाएं या दाएं स्वाइप करें।";
+"navTitleBackgroundRemovalVC" = "पृष्ठभूमि निकालें";
+"buttonTitleBackgroundRemovalVC" = "पृष्ठभूमि\nनिकालें";
+"alertErrorMsgJSON" = "त्रुटि: JSON ऑब्जेक्ट लाया जा रहा है";
+"alertErrorMsgTimeout" = "त्रुटि: समयबाह्य का अनुरोध करें!";
+"alertErrorMsgGenerateImage" = "अंतिम छवि उत्पन्न नहीं कर सकता!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "इमेज प्रोसेस की जा रही है...";
+"viewSubTitleObjectEraserVC" = "हटाए जाने वाले ऑब्जेक्ट को चुनने के लिए उसे स्पर्श करें और उस पर ले जाएं.";
+"navTitleObjectEraserVC" = "वस्तुओं को मिटाना";
+"buttonTitleObjectEraserVC" = "वस्तुओं को मिटाएँ";
+

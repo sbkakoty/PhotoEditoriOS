@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "뒤";
+"navBarButtonDone" = "완료";
+"navBarTitleStartVC" = "열려 있는";
+/* Button Label */
+"labelTapToOpen" = "탭하여 엽니다.";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "갤러리에서 선택";
+"actionSheetCamera" = "사진을 찍다";
+"actionSheetCancel" = "취소";
+"actionSheetSettings" = "설정";
+"actionSheetReviewReference" = "검토/참고";
+"actionSheetGuides" = "가이드";
+"alertTitleGallerySettings" = "액세스 갤러리";
+"alertMessageGallerySettings" = "사진 접근 권한이 필요합니다.";
+"alertTitleCameraSettings" = "액세스 카메라";
+"alertMessageCameraSettings" = "카메라 액세스가 필요합니다.";
+"alertButtonAllow" = "허용하다";
+/* camera preview */
+"actionRetakePhoto" = "다시 잡다";
+"actionUsePhoto" = "사진 사용";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "정상";
+"buttonLabelMoon" = "달";
+"buttonLabelLark" = "종달새";
+"buttonLabelReyes" = "레예스";
+"buttonLabelHueAdjust" = "색조 조정";
+"buttonLabelRedToGreen" = "빨강에서 초록으로";
+"buttonLabelAdjust" = "조정하다";
+"buttonLabelCrop" = "수확고";
+"buttonLabelDraw" = "그리다";
+"buttonLabelText" = "텍스트";
+"buttonLabelFilters" = "필터";
+"buttonLabelOverlays" = "오버레이";
+"buttonLabelStickers" = "스티커";
+"buttonLabelBeauty" = "아름다움";
+"buttonLabelBorders" = "테두리";
+"actionSheetExportGallery" = "갤러리로 내보내기";
+"actionSheetShare" = "공유하다";
+"alertTitleCreateAlbum" = "앨범 만들기";
+"alertTitleExportPhoto" = "사진 내보내기";
+"alertMsgCreateAlbumError" = "앨범 생성 오류!";
+"alertMsgAccessAlbum" = "접근 불가!";
+"alertMsgExportPhotoSuccess" = "성공! 사진 내보내기";
+"alertActionOK" = "확인";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "조정하다";
+"buttonLabelBrightness" = "명도";
+"buttonLabelContrast" = "차이";
+"buttonLabelExposure" = "노출";
+"buttonLabelSharpness" = "날카로움";
+"buttonLabelSaturation" = "포화";
+"buttonLabelWarm" = "따뜻한";
+"buttonLabelFade" = "바래다";
+/* Crop VC */
+"navBarTitleCropVC" = "크로핑";
+"buttonLabelAsShot" = "샷으로";
+"buttonLabelFree" = "무료";
+"buttonLabelFacebook" = "페이스북";
+"buttonLabeliPhone" = "아이폰";
+/* Draw VC */
+"navBarTitleDrawVC" = "그리다";
+"buttonLabelOpacity" = "불투명";
+/* Text VC */
+"navBarTitleTextVC" = "텍스트";
+"placeholder" = "탭하여 편집";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "필터";
+"buttonLabelRedInfluence" = "레드 인플루언스";
+"buttonLabelScan" = "운율 살피기";
+"buttonLabelExclusion" = "배제";
+
+/* Borders VC */
+"buttonLabelBorder" = "가장자리";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "앱 평가";
+"buttonLabelPrivacyPolicy" = "개인 정보 정책";
+"buttonLabelTermsOfUse" = "이용약관";
+"buttonLabelHowItWorks" = "어떻게 작동합니까?";
+"buttonLabelDarkMode" = "다크 모드";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "이미지 처리 중...";
+"viewSubTitleBackgroundRemovalVC" = "배경 지우기를 시작하려면 왼쪽이나 오른쪽으로 스와이프하세요.";
+"navTitleBackgroundRemovalVC" = "배경 제거";
+"buttonTitleBackgroundRemovalVC" = "배경\n제거";
+"alertErrorMsgJSON" = "오류: 데이터를 JSON 개체로 변환할 수 없습니다.";
+"alertErrorMsgTimeout" = "오류: 요청 시간 초과!";
+"alertErrorMsgGenerateImage" = "최종 이미지를 생성할 수 없습니다!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "이미지 처리 중...";
+"viewSubTitleObjectEraserVC" = "제거할 개체를 터치하고 위로 이동하여 선택합니다.";
+"navTitleObjectEraserVC" = "개체 지우기";
+"buttonTitleObjectEraserVC" = "객체\n지우기";
+

@@ -1,0 +1,108 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "späť";
+"navBarButtonDone" = "hotový";
+"navBarTitleStartVC" = "OTVORENÉ";
+/* Button Label */
+"labelTapToOpen" = "Klepnutím otvorte";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Vyberte si z galérie";
+"actionSheetCamera" = "Odfoť";
+"actionSheetCancel" = "Zrušiť";
+"actionSheetSettings" = "nastavenie";
+"actionSheetReviewReference" = "Recenzia/Referencia";
+"actionSheetGuides" = "Sprievodcovia";
+"alertTitleGallerySettings" = "Prístup k galérii";
+"alertMessageGallerySettings" = "Vyžaduje sa prístup k fotografii.";
+"alertTitleCameraSettings" = "Prístup k fotoaparátu";
+"alertMessageCameraSettings" = "Vyžaduje sa prístup k fotoaparátu.";
+"alertButtonAllow" = "Povoliť";
+/* camera preview */
+"actionRetakePhoto" = "Znova";
+"actionUsePhoto" = "Použite fotografiu";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normálne";
+"buttonLabelMoon" = "Mesiac";
+"buttonLabelLark" = "Lark";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Nastavenie odtieňa";
+"buttonLabelRedToGreen" = "Červená až zelená";
+"buttonLabelAdjust" = "Upraviť";
+"buttonLabelCrop" = "Orezať";
+"buttonLabelDraw" = "Kresliť";
+"buttonLabelText" = "Text";
+"buttonLabelFilters" = "Filtre";
+"buttonLabelOverlays" = "Prekrytia";
+"buttonLabelStickers" = "Nálepky";
+"buttonLabelBeauty" = "Krása";
+"buttonLabelBorders" = "Hranice";
+"actionSheetExportGallery" = "Exportovať do galérie";
+"actionSheetShare" = "zdieľam";
+"alertTitleCreateAlbum" = "Vytvoriť album";
+"alertTitleExportPhoto" = "Exportovať fotografiu";
+"alertMsgCreateAlbumError" = "Chyba pri vytváraní albumu!";
+"alertMsgAccessAlbum" = "Prístup zamietnutý!";
+"alertMsgExportPhotoSuccess" = "Úspech! Export fotografií";
+"alertActionOK" = "OK";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Upraviť";
+"buttonLabelBrightness" = "Jas";
+"buttonLabelContrast" = "Kontrast";
+"buttonLabelExposure" = "Vystavenie";
+"buttonLabelSharpness" = "Ostrosť";
+"buttonLabelSaturation" = "Sýtosť";
+"buttonLabelWarm" = "Teplý";
+"buttonLabelFade" = "Vyblednúť";
+/* Crop VC */
+"navBarTitleCropVC" = "Plodina";
+"buttonLabelAsShot" = "Ako Shot";
+"buttonLabelFree" = "zadarmo";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Nakreslite";
+"buttonLabelOpacity" = "Nepriehľadnosť";
+/* Text VC */
+"navBarTitleTextVC" = "Text";
+"placeholder" = "Klepnite na Upraviť";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filtre";
+"buttonLabelRedInfluence" = "Červený vplyv";
+"buttonLabelScan" = "skenovať";
+"buttonLabelExclusion" = "Vylúčenie";
+
+/* Borders VC */
+"buttonLabelBorder" = "Hranica";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Hodnotiť aplikáciu";
+"buttonLabelPrivacyPolicy" = "Zásady ochrany osobných údajov";
+"buttonLabelTermsOfUse" = "Podmienky používania";
+"buttonLabelHowItWorks" = "Ako to funguje?";
+"buttonLabelDarkMode" = "Tmavý režim";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Spracúva sa obrázok...";
+"viewSubTitleBackgroundRemovalVC" = "Potiahnutím doľava alebo doprava spustíte vymazávanie pozadia.";
+"navTitleBackgroundRemovalVC" = "Odstrániť pozadie";
+"buttonTitleBackgroundRemovalVC" = "Odstrániť\nPozadie";
+"alertErrorMsgJSON" = "Chyba: Nie je možné konvertovať údaje na objekt JSON";
+"alertErrorMsgTimeout" = "Chyba: Časový limit žiadosti vypršal!";
+"alertErrorMsgGenerateImage" = "Nie je možné vytvoriť konečný obrázok!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Spracúva sa obrázok...";
+"viewSubTitleObjectEraserVC" = "Dotknite sa a presuňte sa na objekty, ktoré chcete odstrániť, aby ste ich vybrali.";
+"navTitleObjectEraserVC" = "Vymazať objekty";
+"buttonTitleObjectEraserVC" = "Vymazať\nObjekty";

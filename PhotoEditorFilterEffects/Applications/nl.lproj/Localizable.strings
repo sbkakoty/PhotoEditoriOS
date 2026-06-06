@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Rug";
+"navBarButtonDone" = "Gedaan";
+"navBarTitleStartVC" = "Open";
+/* Button Label */
+"labelTapToOpen" = "Tik om te openen";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Kies uit gallerij";
+"actionSheetCamera" = "Foto maken";
+"actionSheetCancel" = "Annuleren";
+"actionSheetSettings" = "Instellingen";
+"actionSheetReviewReference" = "Beoordeling/referentie";
+"actionSheetGuides" = "Gidsen";
+"alertTitleGallerySettings" = "Toegang tot Galerij";
+"alertMessageGallerySettings" = "Toegang tot foto's is vereist.";
+"alertTitleCameraSettings" = "Toegangscamera";
+"alertMessageCameraSettings" = "Cameratoegang is vereist.";
+"alertButtonAllow" = "Toestaan";
+/* camera preview */
+"actionRetakePhoto" = "herkansing";
+"actionUsePhoto" = "Gebruik foto";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "normaal";
+"buttonLabelMoon" = "Maan";
+"buttonLabelLark" = "Leeuwerik";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Tint aanpassen";
+"buttonLabelRedToGreen" = "Rood naar groen";
+"buttonLabelAdjust" = "Aanpassen";
+"buttonLabelCrop" = "Bijsnijden";
+"buttonLabelDraw" = "Tekenen";
+"buttonLabelText" = "Tekst";
+"buttonLabelFilters" = "Filters";
+"buttonLabelOverlays" = "Overlays";
+"buttonLabelStickers" = "stickers";
+"buttonLabelBeauty" = "Schoonheid";
+"buttonLabelBorders" = "grenzen";
+"actionSheetExportGallery" = "Exporteren naar galerij";
+"actionSheetShare" = "Deel";
+"alertTitleCreateAlbum" = "Maak album";
+"alertTitleExportPhoto" = "Foto exporteren";
+"alertMsgCreateAlbumError" = "Fout bij het maken van album!
+T";
+"alertMsgAccessAlbum" = "oegang geweigerd!";
+"alertMsgExportPhotoSuccess" = "Succes! Foto exporteren";
+"alertActionOK" = "Oké";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Aanpassen";
+"buttonLabelBrightness" = "Helderheid";
+"buttonLabelContrast" = "Contrast";
+"buttonLabelExposure" = "Blootstelling";
+"buttonLabelSharpness" = "Scherpte";
+"buttonLabelSaturation" = "Verzadiging";
+"buttonLabelWarm" = "Warm";
+"buttonLabelFade" = "Vervagen";
+/* Crop VC */
+"navBarTitleCropVC" = "Afbeelding";
+"buttonLabelAsShot" = "Als Shot";
+"buttonLabelFree" = "Vrij";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Tekenen";
+"buttonLabelOpacity" = "ondoorzichtigheid";
+/* Text VC */
+"navBarTitleTextVC" = "Tekst";
+"placeholder" = "Klik om aan te passen";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filters";
+"buttonLabelRedInfluence" = "Rode invloed";
+"buttonLabelScan" = "Scannen";
+"buttonLabelExclusion" = "Uitsluiting";
+
+/* Borders VC */
+"buttonLabelBorder" = "Grens";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Beoordeel app";
+"buttonLabelPrivacyPolicy" = "Privacybeleid";
+"buttonLabelTermsOfUse" = "Gebruiksvoorwaarden";
+"buttonLabelHowItWorks" = "Hoe het werkt?";
+"buttonLabelDarkMode" = "Donkere modus";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Afbeelding verwerken...";
+"viewSubTitleBackgroundRemovalVC" = "Veeg naar links of rechts om het wissen van de achtergrond te starten.";
+"navTitleBackgroundRemovalVC" = "Verwijder achtergrond";
+"buttonTitleBackgroundRemovalVC" = "Verwijder\nAchtergrond";
+"alertErrorMsgJSON" = "Fout: JSON-object ophalen";
+"alertErrorMsgTimeout" = "Fout: Verzoek om time-out!";
+"alertErrorMsgGenerateImage" = "Kan geen definitieve afbeelding genereren!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Afbeelding verwerken...";
+"viewSubTitleObjectEraserVC" = "Raak de te verwijderen objecten aan en beweeg ze om ze te selecteren.";
+"navTitleObjectEraserVC" = "Wis objecten";
+"buttonTitleObjectEraserVC" = "Wis\nObjecten";
+

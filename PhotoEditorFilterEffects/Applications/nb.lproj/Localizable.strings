@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Tilbake";
+"navBarButtonDone" = "Ferdig";
+"navBarTitleStartVC" = "Åpen";
+/* Button Label */
+"labelTapToOpen" = "Trykk for å åpne";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Velg fra galleri";
+"actionSheetCamera" = "Ta bilde";
+"actionSheetCancel" = "Avbryt";
+"actionSheetSettings" = "Innstillinger";
+"actionSheetReviewReference" = "Gjennomgang/ referanse";
+"actionSheetGuides" = "Guider";
+"alertTitleGallerySettings" = "Få tilgang til Galleri";
+"alertMessageGallerySettings" = "Bildetilgang er nødvendig.";
+"alertTitleCameraSettings" = "Få tilgang til kamera";
+"alertMessageCameraSettings" = "Kameratilgang er nødvendig.";
+"alertButtonAllow" = "Tillate";
+/* camera preview */
+"actionRetakePhoto" = "Gjenta";
+"actionUsePhoto" = "Bruk Foto";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Vanlig";
+"buttonLabelMoon" = "Måne";
+"buttonLabelLark" = "Lerke";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Juster fargetone";
+"buttonLabelRedToGreen" = "Rød Til Grønn";
+"buttonLabelAdjust" = "Justere";
+"buttonLabelCrop" = "Avling";
+"buttonLabelDraw" = "Tegne";
+"buttonLabelText" = "Tekst";
+"buttonLabelFilters" = "Filtre";
+"buttonLabelOverlays" = "Overlegg";
+"buttonLabelStickers" = "Klistremerker";
+"buttonLabelBeauty" = "Skjønnhet";
+"buttonLabelBorders" = "Grenser";
+"actionSheetExportGallery" = "Eksporter til Galleri";
+"actionSheetShare" = "Dele";
+"alertTitleCreateAlbum" = "Lag album";
+"alertTitleExportPhoto" = "Eksporter bilde";
+"alertMsgCreateAlbumError" = "Albumopprettingsfeil!";
+"alertMsgAccessAlbum" = "Ingen tilgang!";
+"alertMsgExportPhotoSuccess" = "Suksess! Fotoeksport";
+"alertActionOK" = "OK";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Justere";
+"buttonLabelBrightness" = "Lysstyrke";
+"buttonLabelContrast" = "Kontrast";
+"buttonLabelExposure" = "Eksponering";
+"buttonLabelSharpness" = "Skarphet";
+"buttonLabelSaturation" = "Metning";
+"buttonLabelWarm" = "Varm";
+"buttonLabelFade" = "Falme";
+/* Crop VC */
+"navBarTitleCropVC" = "Crop";
+"buttonLabelAsShot" = "Som skudd";
+"buttonLabelFree" = "Gratis";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Tegne";
+"buttonLabelOpacity" = "Opasitet";
+/* Text VC */
+"navBarTitleTextVC" = "Tekst";
+"placeholder" = "Trykk for å redigere";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filtre";
+"buttonLabelRedInfluence" = "Rød påvirkning";
+"buttonLabelScan" = "Skann";
+"buttonLabelExclusion" = "Utelukkelse";
+
+/* Borders VC */
+"buttonLabelBorder" = "Border";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Vurder app";
+"buttonLabelPrivacyPolicy" = "Personvernerklæring";
+"buttonLabelTermsOfUse" = "Vilkår for bruk";
+"buttonLabelHowItWorks" = "Hvordan det fungerer?";
+"buttonLabelDarkMode" = "Mørk modus";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Behandler bilde...";
+"viewSubTitleBackgroundRemovalVC" = "Sveip til venstre eller høyre for å begynne å slette bakgrunnen.";
+"navTitleBackgroundRemovalVC" = "Fjern bakgrunn";
+"buttonTitleBackgroundRemovalVC" = "Fjern\nbakgrunn";
+"alertErrorMsgJSON" = "Feil: Kan ikke konvertere data til JSON-objekt";
+"alertErrorMsgTimeout" = "Feil: Be om tidsavbrudd!";
+"alertErrorMsgGenerateImage" = "Kan ikke generere det endelige bildet!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Behandler bilde...";
+"viewSubTitleObjectEraserVC" = "Berør og flytt over objektene som skal fjernes for å velge det.";
+"navTitleObjectEraserVC" = "Slett objekter";
+"buttonTitleObjectEraserVC" = "Slett\nObjekter";
+

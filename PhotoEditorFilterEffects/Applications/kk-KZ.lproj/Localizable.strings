@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Артқа";
+"navBarButtonDone" = "Орындалды";
+"navBarTitleStartVC" = "Ашық";
+/* Button Label */
+"labelTapToOpen" = "Ашу үшін түртіңіз";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Галереядан таңдаңыз";
+"actionSheetCamera" = "Суретке түсіру";
+"actionSheetCancel" = "Болдырмау";
+"actionSheetSettings" = "Параметрлер";
+"actionSheetReviewReference" = "Шолу/анықтама";
+"actionSheetGuides" = "Гидтер";
+"alertTitleGallerySettings" = "Галереяға кіру";
+"alertMessageGallerySettings" = "Фотосуретке кіру қажет.";
+"alertTitleCameraSettings" = "Камераға кіру";
+"alertMessageCameraSettings" = "Камераға кіру қажет.";
+"alertButtonAllow" = "Рұқсат етіңіз";
+/* camera preview */
+"actionRetakePhoto" = "Қайта алу";
+"actionUsePhoto" = "Фотосуретті пайдаланыңыз";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Қалыпты";
+"buttonLabelMoon" = "Ай";
+"buttonLabelLark" = "Ларк";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Реңкті реттеу";
+"buttonLabelRedToGreen" = "Қызылдан Жасылға";
+"buttonLabelAdjust" = "Реттеу";
+"buttonLabelCrop" = "егін";
+"buttonLabelDraw" = "Салыңыз";
+"buttonLabelText" = "Мәтін";
+"buttonLabelFilters" = "Сүзгілер";
+"buttonLabelOverlays" = "Қабаттамалар";
+"buttonLabelStickers" = "Стикерлер";
+"buttonLabelBeauty" = "Сұлулық";
+"buttonLabelBorders" = "Жиектер";
+"actionSheetExportGallery" = "Галереяға экспорттау";
+"actionSheetShare" = "Бөлісу";
+"alertTitleCreateAlbum" = "Альбом жасау";
+"alertTitleExportPhoto" = "Фотосуретті экспорттау";
+"alertMsgCreateAlbumError" = "Альбом жасау қатесі!";
+"alertMsgAccessAlbum" = "Кіруге тыйым салынды!";
+"alertMsgExportPhotoSuccess" = "Фотосуретті экспорттау сәтті болды.";
+"alertActionOK" = "Жарайды";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Реттеу";
+"buttonLabelBrightness" = "Жарықтық";
+"buttonLabelContrast" = "Контраст";
+"buttonLabelExposure" = "Экспозиция";
+"buttonLabelSharpness" = "Айқындық";
+"buttonLabelSaturation" = "Қанықтылық";
+"buttonLabelWarm" = "Жылы";
+"buttonLabelFade" = "күңгірт";
+/* Crop VC */
+"navBarTitleCropVC" = "Кесу";
+"buttonLabelAsShot" = "Shot ретінде";
+"buttonLabelFree" = "Тегін";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "Салыңыз";
+"buttonLabelOpacity" = "Мөлдірлік";
+/* Text VC */
+"navBarTitleTextVC" = "Мәтін";
+"placeholder" = "Өңдеу үшін түртіңіз";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Сүзгілер";
+"buttonLabelRedInfluence" = "Қызыл ықпал";
+"buttonLabelScan" = "Сканерлеу";
+"buttonLabelExclusion" = "Алып тастау";
+
+/* Borders VC */
+"buttonLabelBorder" = "Жиек";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Қолданбаны бағалаңыз";
+"buttonLabelPrivacyPolicy" = "Құпиялылық саясаты";
+"buttonLabelTermsOfUse" = "Қолдану ережелері";
+"buttonLabelHowItWorks" = "Ол қалай жұмыс істейді?";
+"buttonLabelDarkMode" = "Қараңғы режим";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Кескін өңделуде...";
+"viewSubTitleBackgroundRemovalVC" = "Фонды өшіруді бастау үшін солға немесе оңға сырғытыңыз.";
+"navTitleBackgroundRemovalVC" = "Фонды жою";
+"buttonTitleBackgroundRemovalVC" = "Өшіру\nФон";
+"alertErrorMsgJSON" = "Қате: деректерді JSON нысанына түрлендіру мүмкін емес";
+"alertErrorMsgTimeout" = "Қате: сұрау күту уақыты!";
+"alertErrorMsgGenerateImage" = "Соңғы кескінді жасау мүмкін емес!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Кескін өңделуде...";
+"viewSubTitleObjectEraserVC" = "Оны таңдау үшін жойылатын нысандарды түртіп, үстінен жылжытыңыз.";
+"navTitleObjectEraserVC" = "Объектілерді өшіру";
+"buttonTitleObjectEraserVC" = "Өшіру\nНысандарды";
+

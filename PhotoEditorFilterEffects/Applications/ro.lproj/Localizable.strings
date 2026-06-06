@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  PhotoEditorFilterEffects
+
+  Created by Sonjoy Borkakoty on 08/11/22.
+  
+*/
+/* Nagigation Bar Start VC */
+"navBarButtonBack" = "Înapoi";
+"navBarButtonDone" = "Terminat";
+"navBarTitleStartVC" = "Deschis";
+/* Button Label */
+"labelTapToOpen" = "Atingeți pentru a deschide";
+
+/* Action Sheet Title Start VC */
+"actionSheetGallery" = "Alegeți din galerie";
+"actionSheetCamera" = "Fa o poza";
+"actionSheetCancel" = "Anulare";
+"actionSheetSettings" = "Setări";
+"actionSheetReviewReference" = "Revizuire/ Referință";
+"actionSheetGuides" = "Ghiduri";
+"alertTitleGallerySettings" = "Accesați Galeria";
+"alertMessageGallerySettings" = "Este necesar accesul la fotografie.";
+"alertTitleCameraSettings" = "Accesați Camera";
+"alertMessageCameraSettings" = "Este necesar accesul la cameră.";
+"alertButtonAllow" = "Permite";
+/* camera preview */
+"actionRetakePhoto" = "Relua";
+"actionUsePhoto" = "Utilizați Fotografie";
+
+/* StyleRedactor VC */
+"navBarTitleStyleRedactorVC" = "";
+"buttonLabelNormal" = "Normal";
+"buttonLabelMoon" = "Luna";
+"buttonLabelLark" = "Lark";
+"buttonLabelReyes" = "Reyes";
+"buttonLabelHueAdjust" = "Ajustare nuanță";
+"buttonLabelRedToGreen" = "Roșu spre Verde";
+"buttonLabelAdjust" = "Regla";
+"buttonLabelCrop" = "A decupa";
+"buttonLabelDraw" = "A desena";
+"buttonLabelText" = "Text";
+"buttonLabelFilters" = "Filtre";
+"buttonLabelOverlays" = "Suprapuneri";
+"buttonLabelStickers" = "Autocolante";
+"buttonLabelBeauty" = "Frumuseţe";
+"buttonLabelBorders" = "Frontiere";
+"actionSheetExportGallery" = "Exportați în Galerie";
+"actionSheetShare" = "Acțiune";
+"alertTitleCreateAlbum" = "Creați album";
+"alertTitleExportPhoto" = "Exportați fotografia";
+"alertMsgCreateAlbumError" = "Eroare la crearea albumului!";
+"alertMsgAccessAlbum" = "Acces interzis!";
+"alertMsgExportPhotoSuccess" = "Succes! Export de fotografii";
+"alertActionOK" = "O.K";
+/* Adjust VC */
+"navBarTitleAdjustVC" = "Regla";
+"buttonLabelBrightness" = "Luminozitate";
+"buttonLabelContrast" = "Contrast";
+"buttonLabelExposure" = "Expunere";
+"buttonLabelSharpness" = "Claritate";
+"buttonLabelSaturation" = "Saturare";
+"buttonLabelWarm" = "Cald";
+"buttonLabelFade" = "Decolorare";
+/* Crop VC */
+"navBarTitleCropVC" = "A decupa";
+"buttonLabelAsShot" = "As Shot";
+"buttonLabelFree" = "Gratuit";
+"buttonLabelFacebook" = "Facebook";
+"buttonLabeliPhone" = "iPhone";
+/* Draw VC */
+"navBarTitleDrawVC" = "A desena";
+"buttonLabelOpacity" = "Opacitate";
+/* Text VC */
+"navBarTitleTextVC" = "Text";
+"placeholder" = "Atinge Pentru a edita";
+"sampleFont" = "Aabc";
+
+/* Filters VC */
+"navBarTitleFiltersVC" = "Filtre";
+"buttonLabelRedInfluence" = "Influența roșie";
+"buttonLabelScan" = "Scanați";
+"buttonLabelExclusion" = "Excludere";
+
+/* Borders VC */
+"buttonLabelBorder" = "Granița";
+
+/* SettingsVC */
+"buttonLabelRateApp" = "Evaluați aplicația";
+"buttonLabelPrivacyPolicy" = "Politica de Confidențialitate";
+"buttonLabelTermsOfUse" = "Termeni de utilizare";
+"buttonLabelHowItWorks" = "Cum functioneaza?";
+"buttonLabelDarkMode" = "Modul întunecat";
+
+/* Background Removal VC */
+"indicatorTitleBackgroundRemovalVC" = "Se procesează imaginea...";
+"viewSubTitleBackgroundRemovalVC" = "Glisați la stânga sau la dreapta pentru a începe ștergerea fundalului.";
+"navTitleBackgroundRemovalVC" = "Eliminați fundalul";
+"buttonTitleBackgroundRemovalVC" = "Eliminați\nFondul";
+"alertErrorMsgJSON" = "Eroare: nu se pot converti datele în obiect JSON";
+"alertErrorMsgTimeout" = "Eroare: Solicitare expirare!";
+"alertErrorMsgGenerateImage" = "Nu se poate genera imaginea finală!";
+
+/* Object Eraser VC */
+"indicatorTitleObjectEraserVC" = "Se procesează imaginea...";
+"viewSubTitleObjectEraserVC" = "Atingeți și treceți peste obiectele de eliminat pentru a le selecta.";
+"navTitleObjectEraserVC" = "Ștergeți obiectele";
+"buttonTitleObjectEraserVC" = "Șterge\nObiecte";
+
